@@ -1,0 +1,1220 @@
+﻿Log file open, 11/28/20 12:01:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tentativa4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.068425
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.28-15.01.10:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.28-15.01.10:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.28-15.01.10:845][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.28-15.01.10:848][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.28-15.01.10:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.28-15.01.10:849][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.28-15.01.10:849][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.28-15.01.10:849][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.28-15.01.10:851][  0]LogHAL: Display: Platform has ~ 12 GB [12751085568 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.28-15.01.10:852][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.28-15.01.10:852][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.11.28-15.01.10:852][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.28-15.01.10:853][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.28-15.01.10:853][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.28-15.01.10:853][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.28-15.01.10:853][  0]LogInit: Computer: DESKTOP-AM7GMFQ
+[2020.11.28-15.01.10:853][  0]LogInit: User: salles
+[2020.11.28-15.01.10:853][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.28-15.01.10:853][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.28-15.01.10:853][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.11.28-15.01.10:853][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.28-15.01.10:853][  0]LogMemory: Process Physical Memory: 101.59 MB used, 101.59 MB peak
+[2020.11.28-15.01.10:853][  0]LogMemory: Process Virtual Memory: 88.49 MB used, 88.49 MB peak
+[2020.11.28-15.01.10:853][  0]LogMemory: Physical Memory: 6112.44 MB used,  6047.94 MB free, 12160.38 MB total
+[2020.11.28-15.01.10:853][  0]LogMemory: Virtual Memory: 4658.27 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.11.28-15.01.10:866][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.28-15.01.10:889][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.11.28-15.01.10:889][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.11.28-15.01.11:053][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.28-15.01.11:080][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.28-15.01.11:080][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.28-15.01.11:281][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.28-15.01.11:281][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.28-15.01.11:337][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.11.28-15.01.11:337][  0]LogD3D11RHI:       128/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.11.28-15.01.11:340][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.28-15.01.11:340][  0]LogD3D11RHI:       0/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.28-15.01.11:340][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.28-15.01.11:347][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.28-15.01.11:347][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.28-15.01.11:347][  0]LogWindows: EnumDisplayDevices:
+[2020.11.28-15.01.11:348][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.11.28-15.01.11:348][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.11.28-15.01.11:348][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.11.28-15.01.11:348][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.11.28-15.01.11:348][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2020.11.28-15.01.11:348][  0]LogD3D11RHI:   Driver Version: 26.20.100.7528 (internal:26.20.100.7528, unified:26.20.100.7528)
+[2020.11.28-15.01.11:348][  0]LogD3D11RHI:      Driver Date: 11-13-2019
+[2020.11.28-15.01.11:348][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.11.28-15.01.11:448][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.11.28-15.01.11:448][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.28-15.01.11:453][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.11.28-15.01.11:772][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.11.28-15.01.11:780][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.11.28-15.01.11:788][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.11.28-15.01.11:795][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.11.28-15.01.11:803][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.11.28-15.01.11:812][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.11.28-15.01.11:820][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.28-15.01.11:827][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.11.28-15.01.11:830][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.11.28-15.01.11:861][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.11.28-15.01.11:862][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.11.28-15.01.11:864][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.11.28-15.01.11:880][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.11.28-15.01.11:880][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.11.28-15.01.11:893][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.11.28-15.01.11:893][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.11.28-15.01.11:899][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.11.28-15.01.11:906][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.28-15.01.11:914][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.11.28-15.01.11:921][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.11.28-15.01.11:942][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.11.28-15.01.11:942][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.11.28-15.01.11:942][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.28-15.01.11:951][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.28-15.01.11:992][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Intermediate/Shaders/WorkingDirectory/7532/).
+[2020.11.28-15.01.11:992][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/salles/AppData/Local/Temp/UnrealShaderWorkingDir/7DA84F094114F797483B68B8674B6D43/'.
+[2020.11.28-15.01.11:994][  0]LogXGEController: Cleaning working directory: C:/Users/salles/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.28-15.01.11:994][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.28-15.01.11:994][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.28-15.01.11:994][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.28-15.01.12:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.28-15.01.12:599][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.11.28-15.01.12:599][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.11.28-15.01.12:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.28-15.01.12:599][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.28-15.01.12:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.28-15.01.12:599][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.28-15.01.12:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.28-15.01.12:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.28-15.01.12:610][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.28-15.01.12:612][  0]LogDerivedDataCache: Using Local data cache path C:/Users/salles/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.28-15.01.12:612][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.28-15.01.12:612][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.28-15.01.12:630][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.28-15.01.12:632][  0]LogSlate: Using FreeType 2.6.0
+[2020.11.28-15.01.12:633][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.28-15.01.12:693][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.11.28-15.01.12:945][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.28-15.01.13:076][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.28-15.01.13:076][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.28-15.01.13:076][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.28-15.01.13:076][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.28-15.01.13:076][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.28-15.01.13:086][  0]LogNetVersion: Tentativa4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 811232057)
+[2020.11.28-15.01.13:472][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.047499 seconds
+[2020.11.28-15.01.13:481][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.11.28-15.01.13:481][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.11.28-15.01.13:481][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.28-15.01.14:327][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.28-15.01.14:330][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.28-15.01.14:383][  0]SourceControl: Source control is disabled
+[2020.11.28-15.01.14:384][  0]SourceControl: Source control is disabled
+[2020.11.28-15.01.14:385][  0]SourceControl: Source control is disabled
+[2020.11.28-15.01.14:386][  0]SourceControl: Source control is disabled
+[2020.11.28-15.01.14:472][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.28-15.01.14:558][  0]LogOcInput: OculusInput pre-init called
+[2020.11.28-15.01.14:564][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.28-15.01.14:564][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.28-15.01.14:624][  0]LogEngine: Initializing Engine...
+[2020.11.28-15.01.14:625][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.28-15.01.14:626][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.28-15.01.14:827][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.28-15.01.14:841][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.28-15.01.14:881][  0]LogInit: XAudio2 using 'Alto-falantes (3- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.11.28-15.01.14:896][  0]LogInit: FAudioDevice initialized.
+[2020.11.28-15.01.14:896][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.28-15.01.15:085][  0]LogDerivedDataCache: Saved boot cache 0.19s 73MB C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.11.28-15.01.15:089][  0]LogInit: Texture streaming: Enabled
+[2020.11.28-15.01.15:104][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.28-15.01.15:104][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.28-15.01.15:104][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.28-15.01.15:175][  0]LogInit: Transaction tracking system initialized
+[2020.11.28-15.01.15:198][  0]BlueprintLog: New page: Editor Load
+[2020.11.28-15.01.15:257][  0]LocalizationService: Localization service is disabled
+[2020.11.28-15.01.15:468][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.28-15.01.15:468][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.28-15.01.15:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/' took 0.01s
+[2020.11.28-15.01.15:644][  0]SourceControl: Source control is disabled
+[2020.11.28-15.01.15:644][  0]Cmd: MAP LOAD FILE="C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.28-15.01.15:645][  0]LightingResults: New page: Lighting Build
+[2020.11.28-15.01.15:647][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.28-15.01.15:648][  0]MapCheck: New page: Map Check
+[2020.11.28-15.01.15:648][  0]LightingResults: New page: Lighting Build
+[2020.11.28-15.01.15:672][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.11.28-15.01.16:701][  0]LogAIModule: Creating AISystem for world Station
+[2020.11.28-15.01.16:719][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.28-15.01.16:776][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.11.28-15.01.16:776][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.28-15.01.16:776][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2020.11.28-15.01.16:776][  0]LogFileHelpers: Loading map 'Station' took 1.132
+[2020.11.28-15.01.17:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.28-15.01.17:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.28-15.01.17:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.28-15.01.17:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.28-15.01.17:116][  0]LogCollectionManager: Loaded 0 collections in 0.001012 seconds
+[2020.11.28-15.01.17:202][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Collections/' took 0.00s
+[2020.11.28-15.01.17:202][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/Developers/salles/Collections/' took 0.00s
+[2020.11.28-15.01.17:202][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/Collections/' took 0.00s
+[2020.11.28-15.01.17:202][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.11.28-15.01.17:217][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2863 classes and 680 folders.
+[2020.11.28-15.01.17:306][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.28-15.01.17:763][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.28-15.01.17:805][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.11.28-15.01.17:883][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.28-15.01.17:885][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.28-15.01.17:905][  0]LogSlate: Took 0.009597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.28-15.01.18:020][  0]LogRenderer: Reallocating scene render targets to support 1380x572 Format 9 NumSamples 1 (Frame:1).
+[2020.11.28-15.01.18:166][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.28-15.01.18:166][  0]LogLoad: (Engine Initialization) Total time: 8.68 seconds
+[2020.11.28-15.01.18:166][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.28-15.01.18:238][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.11.28-15.01.18:516][  2]LogAssetRegistry: Asset discovery search completed in 5.8243 seconds
+[2020.11.28-15.01.18:518][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.11.28-15.01.18:518][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2020.11.28-15.01.19:566][  6]LogSlate: Took 0.036906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.28-15.01.19:578][  6]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.11.28-15.01.19:972][  6]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.11.28-15.01.20:918][  6]LogSlate: Took 0.009884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.28-15.01.21:291][  7]LogSlate: Took 0.011802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.28-15.01.22:947][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.28-15.01.23:023][ 12]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.28-15.01.51:988][701]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Higienopolis_BCBBE18D1F4F155A7B170C669EC51CE07B.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis/Texture/Higienopolis_BC.uasset'
+[2020.11.28-15.01.52:147][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.11.28-15.01.52:176][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.11.28-15.01.52:202][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.28-15.01.52:302][701]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_HigienopolisMat19937968442AC5E560AE85BD794E5981.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis/Plataforma_HigienopolisMat.uasset'
+[2020.11.28-15.01.57:545][966]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Higienopolis_NRM480CB4754740F62B5D1468AA091D1ED1.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis/Texture/Higienopolis_NRM.uasset'
+[2020.11.28-15.01.57:676][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.11.28-15.01.57:707][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.11.28-15.01.57:735][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.28-15.01.57:780][966]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_HigienopolisMatC1DDC604461B3724D00C28BA14C0A3C5.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis/Plataforma_HigienopolisMat.uasset'
+[2020.11.28-15.02.01:034][144]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Higienopolis_ORMAFCFED104C55C57023FD8E86FC97B338.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis/Texture/Higienopolis_ORM.uasset'
+[2020.11.28-15.02.01:157][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.28-15.02.01:185][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.11.28-15.02.01:210][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.28-15.02.01:259][144]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_HigienopolisMat73D2B2614F68F760513A3793EDC7A615.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis/Plataforma_HigienopolisMat.uasset'
+[2020.11.28-15.02.18:174][532]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={66F8DDE4-433A-A240-4717-00ADA530819A}
+[2020.11.28-15.02.18:174][532]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D12E719C-4462-7BB2-13CC-D481977E625F}
+[2020.11.28-15.02.23:687][ 34]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Higienopolis_CP_BCE3117A6A47F0EFD961A7A58A9C8C3679.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_CP/Texture/Higienopolis_CP_BC.uasset'
+[2020.11.28-15.02.23:807][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.28-15.02.23:837][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.11.28-15.02.23:864][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.28-15.02.23:933][ 34]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_CPMatE325FC0A4914446C6A0101BA0B9C819E.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_CP/Plataforma_Higienopolis_CPMat.uasset'
+[2020.11.28-15.02.29:784][481]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Higienopolis_CP_NRMDEADF77043DDB8FEA8404D9B2F8D8EC3.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_CP/Texture/Higienopolis_CP_NRM.uasset'
+[2020.11.28-15.02.29:902][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.11.28-15.02.29:932][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.11.28-15.02.29:957][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.28-15.02.30:004][481]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_CPMat8D32BFFB41DCDC9D4CA04693E50E81B5.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_CP/Plataforma_Higienopolis_CPMat.uasset'
+[2020.11.28-15.02.33:176][653]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Higienopolis_CP_ORMB4B98545474EE29AE9A877AB827291F4.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_CP/Texture/Higienopolis_CP_ORM.uasset'
+[2020.11.28-15.02.33:295][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.28-15.02.33:319][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.11.28-15.02.33:344][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.28-15.02.33:394][653]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_CPMat659D4745437493915CC5659CE018AD0D.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_CP/Plataforma_Higienopolis_CPMat.uasset'
+[2020.11.28-15.02.37:814][844]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Texture/Plataforma_Higienopolis_Elevador_DefaultMaterial_BaseColor.Plataforma_Higienopolis_Elevador_DefaultMaterial_BaseColor
+[2020.11.28-15.02.37:853][844]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.11.28-15.02.43:980][189]LogSlate: Window 'Plataforma_Higienopolis_Elevador_DefaultMaterial_BaseColor' being destroyed
+[2020.11.28-15.03.29:011][528]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Higienopolis_El_BC3CB86057489C0DD5617C46B3039E0B4E.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Texture/Higienopolis_El_BC.uasset'
+[2020.11.28-15.03.29:174][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.11.28-15.03.29:205][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.11.28-15.03.29:235][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.28-15.03.29:304][528]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_ElevadorD36E36F845B9CE84EAD928AF7E16467A.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Plataforma_Higienopolis_ElevadorMat.uasset'
+[2020.11.28-15.03.43:113][275]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Elevador_NRM22F938EC40515AF726E2128CAC89F405.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Texture/Elevador_NRM.uasset'
+[2020.11.28-15.03.43:245][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.11.28-15.03.43:277][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.11.28-15.03.43:305][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.28-15.03.43:355][275]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Elevador9FD2A0DE48C4A090B6221EB49EC86DAF.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Plataforma_Higienopolis_ElevadorMat.uasset'
+[2020.11.28-15.03.50:600][704]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Elevador_BC646B5298451D1F3A1A0FB69BF28B54A4.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Texture/Elevador_BC.uasset'
+[2020.11.28-15.03.50:740][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.03.50:773][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.28-15.03.50:800][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.28-15.03.50:847][704]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_ElevadorCCF254F74FA6F80508ED29A12BF908F0.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Plataforma_Higienopolis_ElevadorMat.uasset'
+[2020.11.28-15.03.54:052][863]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Elevador_ORM231C3B604D8E2CD916F0318BB6091BA3.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Texture/Elevador_ORM.uasset'
+[2020.11.28-15.03.54:189][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.28-15.03.54:221][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.11.28-15.03.54:249][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.28-15.03.54:294][863]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Elevador6876731F4339525F047E88A4FA6A61A5.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Elevador/Plataforma_Higienopolis_ElevadorMat.uasset'
+[2020.11.28-15.04.20:973][216]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_DD_BCA794C9D04D20B65C22A5B99FD0F0828C.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DD/Texture/Escada_DD_BC.uasset'
+[2020.11.28-15.04.21:109][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.04.21:138][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.28-15.04.21:167][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.04.21:239][216]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_D273929074124EE1480DD979B740B4C80.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DD/Plataforma_Higienopolis_Escada_DDMat.uasset'
+[2020.11.28-15.04.26:272][453]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_DD_NRM175B60F74DE17673D31E618F18EE3166.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DD/Texture/Escada_DD_NRM.uasset'
+[2020.11.28-15.04.26:413][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.11.28-15.04.26:445][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.11.28-15.04.26:473][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.04.26:522][453]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_D78053E994F577F2DF88300BA8B5A4586.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DD/Plataforma_Higienopolis_Escada_DDMat.uasset'
+[2020.11.28-15.04.29:604][603]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_DD_ORMD39F6EC74E815EF4EA594A8CEAB4363E.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DD/Texture/Escada_DD_ORM.uasset'
+[2020.11.28-15.04.29:747][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.04.29:782][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.28-15.04.29:807][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.04.29:855][603]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_D3A9685B34E04F040A91E6D97AD32EECA.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DD/Plataforma_Higienopolis_Escada_DDMat.uasset'
+[2020.11.28-15.04.42:748][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.11.28-15.04.44:169][256]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.28-15.04.44:269][256]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.11.28-15.04.44:297][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.28-15.04.44:324][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.04.44:352][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.28-15.04.44:379][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.28-15.04.44:410][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.11.28-15.04.44:437][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.28-15.04.55:079][722]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_DE_BCA74B93064F6717C29E865E9C0D6C87DB.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DE/Textura/Escada_DE_BC.uasset'
+[2020.11.28-15.04.55:219][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.04.55:251][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.28-15.04.55:278][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.04.55:346][722]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_DE2AC63394642088AB5556D9EF9C5DA94.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DE/Plataforma_Higienopolis_Escada_DEMat.uasset'
+[2020.11.28-15.04.58:106][845]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_DE_NRMEA1B3B2F4B8E0A8D39F3DDB6BACD1D83.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DE/Textura/Escada_DE_NRM.uasset'
+[2020.11.28-15.04.58:250][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.11.28-15.04.58:284][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.28-15.04.58:311][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.28-15.04.58:358][845]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_DCF914327493A1E1C871FAEB3493831F4.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DE/Plataforma_Higienopolis_Escada_DEMat.uasset'
+[2020.11.28-15.05.01:793][ 53]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_DE_ORM821CCF2942BB249C077A92AAFA9E0F8B.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DE/Textura/Escada_DE_ORM.uasset'
+[2020.11.28-15.05.01:925][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.28-15.05.01:958][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.11.28-15.05.01:985][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.28-15.05.02:031][ 53]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_DE0CF9CF546BF47744E792F834E72D999.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DE/Plataforma_Higienopolis_Escada_DEMat.uasset'
+[2020.11.28-15.05.13:887][573]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_S_BC21FD60E546FC8558331DE0835F71AAC2.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_S/Texture/Escada_S_BC.uasset'
+[2020.11.28-15.05.14:018][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.05.14:047][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.11.28-15.05.14:074][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.28-15.05.14:144][573]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_S105A80DC4A952981288B489655C7C11E.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_S/Plataforma_Higienopolis_Escada_SMat.uasset'
+[2020.11.28-15.05.17:794][765]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_S_NRM1941FC494690A3F923B15BB3CC980CE7.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_S/Texture/Escada_S_NRM.uasset'
+[2020.11.28-15.05.17:939][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.11.28-15.05.17:971][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.11.28-15.05.18:000][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.28-15.05.18:051][765]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_S43B4712348D517A395FF1090DD0E58CA.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_S/Plataforma_Higienopolis_Escada_SMat.uasset'
+[2020.11.28-15.05.21:272][962]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_S_ORM912123794A9C303D38D7158AC02A20D4.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_S/Texture/Escada_S_ORM.uasset'
+[2020.11.28-15.05.21:414][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.28-15.05.21:447][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.11.28-15.05.21:477][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.28-15.05.21:529][962]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Escada_S89E93E1143379DB0EC8D4A9917807767.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_S/Plataforma_Higienopolis_Escada_SMat.uasset'
+[2020.11.28-15.05.42:845][925]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plat_Sup_BC3BC3A04E46C7666DF4F37FA98EEF85CB.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Texture/Plat_Sup_BC.uasset'
+[2020.11.28-15.05.42:981][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.05.43:012][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.11.28-15.05.43:041][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.11.28-15.05.43:112][925]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_SuperiorC33F26A34ED266A8EAE91C898C40F252.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Plataforma_Higienopolis_SuperiorMat.uasset'
+[2020.11.28-15.05.48:749][207]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plat_Sup_NRM7F61028D4A43F84AEC8C3FBF86EFDC45.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Texture/Plat_Sup_NRM.uasset'
+[2020.11.28-15.05.48:887][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.11.28-15.05.48:918][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.11.28-15.05.48:946][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.28-15.05.48:994][207]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Superior77C195C0486E3E981D3196B1EF86D1AB.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Plataforma_Higienopolis_SuperiorMat.uasset'
+[2020.11.28-15.06.01:577][869]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plat_Vidro_BC191AD1004C919A93A147A8A42CBF0EBA.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Texture/Plat_Vidro_BC.uasset'
+[2020.11.28-15.06.01:716][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.11.28-15.06.01:750][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.11.28-15.06.01:778][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.06.01:844][869]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Superior81F61A924951316897E946AE7F82E255.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Plataforma_Higienopolis_SuperiorVidroMat.uasset'
+[2020.11.28-15.06.16:868][873]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plat_Vidro_Nrm2EB347554C37AA4B0D0660BD2BB38488.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Texture/Plat_Vidro_Nrm.uasset'
+[2020.11.28-15.06.17:007][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.11.28-15.06.17:039][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.28-15.06.17:064][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.28-15.06.17:109][873]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Superior0C8E33D24AF261F7E633798B19E4550D.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Plataforma_Higienopolis_SuperiorVidroMat.uasset'
+[2020.11.28-15.06.28:078][469]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plat_Vidro_ORME57382614589EC92CEC522A5D30E965D.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Texture/Plat_Vidro_ORM.uasset'
+[2020.11.28-15.06.28:212][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.28-15.06.28:244][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.11.28-15.06.28:272][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.06.28:320][469]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_SuperiorD9C403324C8B21DB24B5848E56377938.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Plataforma_Higienopolis_SuperiorVidroMat.uasset'
+[2020.11.28-15.06.31:049][613]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plat_Sup_ORM1EB46AFE46750C55409B7D8144610317.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Texture/Plat_Sup_ORM.uasset'
+[2020.11.28-15.06.31:188][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.06.31:220][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.28-15.06.31:247][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.28-15.06.31:294][613]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Higienopolis_Superior149617484B3E9577844D6C8619177B67.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Plataforma_Higienopolis_SuperiorMat.uasset'
+[2020.11.28-15.06.48:522][446]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Paulista_BC05199D824EC00ADA46D6BD8BF8D9EF6B.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista/Texture/Paulista_BC.uasset'
+[2020.11.28-15.06.48:661][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.28-15.06.48:696][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.11.28-15.06.48:723][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.28-15.06.48:791][446]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_PaulistaMatA080A1BA4A6ECE61B437B4B64513C56C.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista/Plataforma_PaulistaMat.uasset'
+[2020.11.28-15.06.52:279][615]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Paulista_NrmF43833FD4429B9528B9DFCA8E0F06AF6.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista/Texture/Paulista_Nrm.uasset'
+[2020.11.28-15.06.52:416][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.11.28-15.06.52:449][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.28-15.06.52:474][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.06.52:519][615]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_PaulistaMat1F5716C94948296A48451F8233FC1B62.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista/Plataforma_PaulistaMat.uasset'
+[2020.11.28-15.06.55:586][797]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Paulista_ORM7A431A9A4CB2F3495909D087547C659E.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista/Texture/Paulista_ORM.uasset'
+[2020.11.28-15.06.55:832][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.28-15.06.55:864][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.11.28-15.06.55:891][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.06.56:015][797]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_PaulistaMat482F49494CC9CE84BA46EEB36EA6693C.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista/Plataforma_PaulistaMat.uasset'
+[2020.11.28-15.07.09:989][405]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Paulista_CP_BC0F03BA214FB4E16111F181B5B7C1517D.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista_CP/Texture/Paulista_CP_BC.uasset'
+[2020.11.28-15.07.10:126][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.11.28-15.07.10:157][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.11.28-15.07.10:182][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.07.10:252][405]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Paulista_CPMat88EA99F8495F5A4D6715B0B3BA566951.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista_CP/Plataforma_Paulista_CPMat.uasset'
+[2020.11.28-15.07.13:880][661]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Paulista_CP_NRM2E69A46B4BFCDC7FD784A8B180D7CEB1.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista_CP/Texture/Paulista_CP_NRM.uasset'
+[2020.11.28-15.07.14:021][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.11.28-15.07.14:055][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.11.28-15.07.14:083][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.28-15.07.14:136][661]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Paulista_CPMat11B6592F4C132D6DA868A6B7C600DD41.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista_CP/Plataforma_Paulista_CPMat.uasset'
+[2020.11.28-15.07.17:308][819]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Paulista_CP_ORM8778786F489ECCC5AA967B88AB2C7547.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista_CP/Texture/Paulista_CP_ORM.uasset'
+[2020.11.28-15.07.17:450][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.28-15.07.17:481][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.11.28-15.07.17:509][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.07.17:557][819]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Paulista_CPMat35425E7942BEAE55800BB5AD523616A9.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista_CP/Plataforma_Paulista_CPMat.uasset'
+[2020.11.28-15.07.29:231][326]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Republica_BCA9B2BFD24F06F9D58042D3B741A25841.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica/Texture/Republica_BC.uasset'
+[2020.11.28-15.07.29:368][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.07.29:401][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.11.28-15.07.29:428][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.07.29:495][326]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_RepublicaMatA68D93394A146351C383EF9BB5A55F7F.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica/Plataforma_RepublicaMat.uasset'
+[2020.11.28-15.07.33:653][544]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Republica_NRM636C97324233E1550EEADCA24AAD26A0.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica/Texture/Republica_NRM.uasset'
+[2020.11.28-15.07.33:794][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.11.28-15.07.33:828][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.11.28-15.07.33:856][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.28-15.07.33:901][544]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_RepublicaMat3662A3164C42589E3EA833B2D2199334.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica/Plataforma_RepublicaMat.uasset'
+[2020.11.28-15.07.36:720][684]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Republica_ORMC11884344889D123C5BC1E9B2284B7FE.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica/Texture/Republica_ORM.uasset'
+[2020.11.28-15.07.36:858][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.07.36:890][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.11.28-15.07.36:919][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.07.36:968][684]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_RepublicaMat671293654E86D60E2029178A27236A85.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica/Plataforma_RepublicaMat.uasset'
+[2020.11.28-15.07.49:780][242]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Republica_E0E007CF43C1850DCED03A8266DE71C2.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica_Escada_Rolante/Republica_.uasset'
+[2020.11.28-15.07.49:825][242]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Republica_Escada_Rola3E9759C640DC6418AF4FE78970A6E2C4.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica_Escada_Rolante/Plataforma_Republica_Escada_Rolante.uasset'
+[2020.11.28-15.07.56:234][753]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Republica_Escada952C6EEF4587009DDA010EB36131FA08.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica_Escada_Rolante/Republica_Escada.uasset'
+[2020.11.28-15.07.56:374][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.11.28-15.07.56:404][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.28-15.07.56:431][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.07.56:476][753]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Republica_Escada_Rola14E897AA4A02910EB13E3AA188068EE1.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica_Escada_Rolante/Plataforma_Republica_Escada_Rolante.uasset'
+[2020.11.28-15.08.22:816][915]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_Ele_BC0B1D8EA342D774A8806D5980BCD697BE.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Texture/Alt_IP_Ele_BC.uasset'
+[2020.11.28-15.08.22:957][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.11.28-15.08.22:989][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.28-15.08.23:018][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.28-15.08.23:089][915]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Elevador71A05BA843743C912D9760AB6D0EDDBE.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Elevador.uasset'
+[2020.11.28-15.08.27:132][111]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_Ele_NRM2999C1814565C4BB1AAEF18A9AB2F9CD.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Texture/Alt_IP_Ele_NRM.uasset'
+[2020.11.28-15.08.27:268][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.28-15.08.27:297][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.11.28-15.08.27:324][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.08.27:370][111]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Elevador983E8F5C412BECEBF31038B4F4B95370.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Elevador.uasset'
+[2020.11.28-15.08.30:262][245]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_Ele_ORM04FD7F8A40E9EA7D528B02971D966EDD.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Texture/Alt_IP_Ele_ORM.uasset'
+[2020.11.28-15.08.30:404][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.28-15.08.30:435][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.28-15.08.30:462][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.08.30:507][245]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Elevador6431008A4AE4BD538A735B9AA92CE4BD.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Elevador.uasset'
+[2020.11.28-15.08.46:546][940]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_BCFCC32C5040F273D923C91E943849875C.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alt_IP_BC.uasset'
+[2020.11.28-15.08.46:683][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.11.28-15.08.46:715][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.11.28-15.08.46:742][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.08.46:809][940]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir5C5E02F041B781C68F2D7CA8457CDBBD.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_IpirangaMat.uasset'
+[2020.11.28-15.08.51:141][147]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_NRM5B89D75746CF2EF248F47BAA29F12454.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alt_IP_NRM.uasset'
+[2020.11.28-15.08.51:281][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.11.28-15.08.51:312][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.11.28-15.08.51:339][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.28-15.08.51:386][147]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir842304FA462282EE6D2B0DA713DEA322.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_IpirangaMat.uasset'
+[2020.11.28-15.08.54:019][280]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_ORM2F1FC3444FF30498ED56F2B289545DAA.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alt_IP_ORM.uasset'
+[2020.11.28-15.08.54:157][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.08.54:188][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.28-15.08.54:216][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.28-15.08.54:263][280]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir901700AA4F43F9679F066E9A7FC749B0.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_IpirangaMat.uasset'
+[2020.11.28-15.09.18:308][290]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_Plat_Sup2C41A2EC4EBB17F13E2A7BA8A293D7A3.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Alt_IP_Plat_Sup.uasset'
+[2020.11.28-15.09.18:353][290]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir98CED2C545379C095FB5EC9D0D4AA1C4.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_Ipiranga.uasset'
+[2020.11.28-15.09.24:724][564]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_Plat_SupMat469209BA4C74367457C25A82309EEA58.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Alt_IP_Plat_SupMat.uasset'
+[2020.11.28-15.09.24:862][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.11.28-15.09.24:893][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.11.28-15.09.24:917][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.09.24:972][564]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_Plat_Sup272B91E1447EE0BFD62C598FC1298E9C.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Alt_IP_Plat_Sup.uasset'
+[2020.11.28-15.09.42:935][346]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_ESCCF027DD04F37075E195FDC987287568A.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Escada/Alt_IP_ESC.uasset'
+[2020.11.28-15.09.43:077][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.11.28-15.09.43:109][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.11.28-15.09.43:138][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.09.50:804][655]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_ESCmat7D32770748A9EEEDB99FC88E242432E3.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Escada/Alt_IP_ESCmat.uasset'
+[2020.11.28-15.09.50:943][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.28-15.09.50:977][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.11.28-15.09.51:003][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.09.51:057][655]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_ESC924D16B8494498A12DC4C7A051565C04.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Escada/Alt_IP_ESC.uasset'
+[2020.11.28-15.09.56:020][855]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_ESCmat617238984E8DA333F8DF7180B154CD80.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Escada/Alt_IP_ESCmat.uasset'
+[2020.11.28-15.09.56:248][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.11.28-15.09.56:297][855]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_ESC46A8D0164652D7A344B025B6CB7A937C.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Escada/Alt_IP_ESC.uasset'
+[2020.11.28-15.09.59:174][951]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_ESCED648B0D4FDFB7D7C151A2A3053B4253.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Escada/Alt_IP_ESC.uasset'
+[2020.11.28-15.09.59:401][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.28-15.10.11:066][411]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_Ele92E9FE9241443EF517C56086C85371BF.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Alt_IP_Ele.uasset'
+[2020.11.28-15.10.11:111][411]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Elev4EFC4A834DDB308D43AEA28AE01B3E22.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Plataforma_Alto_do_Ipiranga_Elevador.uasset'
+[2020.11.28-15.10.15:337][606]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_EleMat66DB08724E899E6968310E8602F932BB.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Alt_IP_EleMat.uasset'
+[2020.11.28-15.10.15:477][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.11.28-15.10.15:511][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.28-15.10.15:540][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.10.15:592][606]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_Ele47BBF183405429A542A9E9B8C34AD0D4.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Alt_IP_Ele.uasset'
+[2020.11.28-15.10.26:517][ 65]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_BilheteriaFC759B0D45D3F06489180F99AB5517BE.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Bilheteria/Alt_IP_Bilheteria.uasset'
+[2020.11.28-15.10.26:563][ 65]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Bilh1B6088AC493380DB334467A1AB8DA2BC.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Bilheteria/Plataforma_Alto_do_Ipiranga_Bilheteria.uasset'
+[2020.11.28-15.10.39:612][617]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP2E200DF448995F0B1B2F55AE81BC0A1B.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Alt_IP_CP.uasset'
+[2020.11.28-15.10.39:657][617]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_CP_Alto_do_Ipiranga3FC405BF4CED0CEE8FDCD380E8B8072F.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga.uasset'
+[2020.11.28-15.10.43:359][800]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPMatE000249A43D1BCDE0DAA579605F25B4E.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Alt_IP_CPMat.uasset'
+[2020.11.28-15.10.43:501][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.11.28-15.10.43:533][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.11.28-15.10.43:560][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.10.43:616][800]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPDBC5FE8C46387C5B85E50182CCB0D864.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Alt_IP_CP.uasset'
+[2020.11.28-15.10.50:508][ 77]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_BcB654CF6C4E9158FFED5D5CA184591334.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/Alt_IP_CP_Bc.uasset'
+[2020.11.28-15.10.50:645][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.10.50:678][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.28-15.10.50:704][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.10.50:757][ 77]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPMat47CE89C94CF79C70017D53AA81182136.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Alt_IP_CPMat.uasset'
+[2020.11.28-15.10.56:798][329]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_Bc0BD8E8D44FF324AE65C0B8B7E0FC999B.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/Alt_IP_CP_Bc.uasset'
+[2020.11.28-15.10.57:009][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.28-15.10.57:056][329]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPMat8B51C2074753D8F0D88B3BBF370AED3D.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Alt_IP_CPMat.uasset'
+[2020.11.28-15.10.59:774][478]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_NRM2F37BDBB457AD3A86D185291728C9E32.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/Alt_IP_CP_NRM.uasset'
+[2020.11.28-15.10.59:911][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.10.59:942][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.11.28-15.10.59:967][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.11.00:015][478]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPMat0B89D62A47FC48A02A93088D67E05683.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Alt_IP_CPMat.uasset'
+[2020.11.28-15.11.03:871][692]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_ORM6CF7533D4F16A73198D379897782D718.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/Alt_IP_CP_ORM.uasset'
+[2020.11.28-15.11.04:008][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.11.04:039][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.11.28-15.11.04:065][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.28-15.11.04:112][692]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPMat014B7C834F2E8D79E0DF31B85887B059.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Alt_IP_CPMat.uasset'
+[2020.11.28-15.11.20:025][383]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic': Can't find file.
+[2020.11.28-15.11.20:025][383]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic': Can't find file.
+[2020.11.28-15.11.20:027][383]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic': Can't find file.
+[2020.11.28-15.11.20:027][383]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic': Can't find file.
+[2020.11.28-15.11.20:028][383]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic': Can't find file.
+[2020.11.28-15.11.20:045][383]LoadErrors: Failed to load /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic.Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic Referenced by MaterialExpressionTextureSample_2
+[2020.11.28-15.11.20:046][383]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic': Can't find file.
+[2020.11.28-15.11.20:052][383]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.11.20:053][383]LogMaterial: Warning: C:\Users\salles\Desktop\TCC-Sobrevivendo-Ao-Inferno\Tentativa4\Content\MyContent\Models\Assets\Models\Estacoes\LinhaAzul\EstacaoAltoIpiranga\Plataforma_Superior\Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.28-15.11.20:053][383]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.28-15.11.20:112][383]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_PlatSup4424077342CF1C496FBEFDA8EAE781D4.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Alt_IP_PlatSup.uasset'
+[2020.11.28-15.11.20:247][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.11.28-15.11.20:280][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.28-15.11.20:307][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.28-15.11.26:237][606]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_PlatSupBC9267E6144E128A654F71588AE79D16F6.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alt_IP_PlatSupBC.uasset'
+[2020.11.28-15.11.26:385][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.11.26:418][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.11.28-15.11.26:446][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.11.26:517][606]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Plat8F9C7B044F833A5229D9B8AC37DDE775.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset'
+[2020.11.28-15.11.31:776][829]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_PlatSup_NRM6DFAB1DC4EC29F5251D2378F88D2DFD6.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alt_IP_PlatSup_NRM.uasset'
+[2020.11.28-15.11.31:913][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.28-15.11.31:944][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.11.28-15.11.31:970][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.28-15.11.32:019][829]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Plat7B3A07964AAC09B38C3E81BA46B0814A.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset'
+[2020.11.28-15.11.38:499][108]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_PlatSup_BCCD20EAC24764E465580133ABB5ECD6EC.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alt_IP_PlatSup_BC.uasset'
+[2020.11.28-15.11.38:636][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.28-15.11.38:670][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.28-15.11.38:696][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.28-15.11.38:746][108]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Plat7BE743F94E70E9ABBD53088083524AA1.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset'
+[2020.11.28-15.11.41:804][228]LogAssetEditorManager: Opening Asset editor for Material /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat
+[2020.11.28-15.11.41:821][228]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.11.41:822][228]LogMaterial: Warning: /Engine/Transient.Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.28-15.11.41:822][228]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.28-15.11.42:295][228]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.11.42:296][228]LogMaterial: Warning: /Engine/Transient.Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.28-15.11.42:296][228]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.28-15.11.42:299][228]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.11.42:299][228]LogMaterial: Warning: /Engine/Transient.Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.28-15.11.42:299][228]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.28-15.11.42:306][228]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.28-15.11.42:318][228]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.11.28-15.11.42:320][228]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.11.28-15.11.42:382][228]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.11.28-15.11.42:382][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.11.28-15.11.42:382][228]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.11.28-15.11.42:382][228]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.11.28-15.11.42:382][228]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.11.28-15.11.44:089][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.11.28-15.11.44:167][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.11.28-15.11.44:359][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.28-15.11.44:438][273]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.28-15.11.44:475][275]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.28-15.12.04:907][503]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Linha Verde\Alto do ipiranga\Plataforma_Alto_do_Ipiranga_Plataforma_Superior\Texture\Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1.001_OcclusionRoughnessMetallic.png)
+[2020.11.28-15.12.04:974][503]LogTexture: Display: Building textures: Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.11.28-15.12.13:160][503]LogSlate: Window 'Message' being destroyed
+[2020.11.28-15.12.15:022][564]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic.Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic
+[2020.11.28-15.12.16:610][620]LogTexture: Display: Building textures: Plataforma_Alto_do_Ipiranga_Plataforma_Superior_lambert1_001_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.11.28-15.12.22:210][793]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_PlatSup_ORM48A2FDB2406FF975077E888DA0AD07E2.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alt_IP_PlatSup_ORM.uasset'
+[2020.11.28-15.12.22:440][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.11.28-15.12.22:471][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.11.28-15.12.22:499][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.28-15.12.23:719][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.12.25:203][901]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.12.25:203][901]LogMaterial: Warning: /Engine/Transient.Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.28-15.12.25:203][901]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.28-15.12.25:214][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.11.28-15.12.25:226][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.28-15.12.25:232][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.11.28-15.12.25:234][901]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.11.28-15.12.25:234][901]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.11.28-15.12.25:234][901]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.28-15.12.25:234][901]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.11.28-15.12.25:234][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.11.28-15.12.25:241][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.11.28-15.12.26:556][933]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.11.28-15.12.26:631][935]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.28-15.12.26:884][941]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.11.28-15.12.27:054][945]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.11.28-15.12.27:856][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.11.28-15.12.27:856][963]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.12.27:921][963]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.11.28-15.12.27:921][963]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.28-15.12.27:921][963]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.28-15.12.28:749][983]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.11.28-15.12.28:767][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.11.28-15.12.28:817][987]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.11.28-15.12.28:817][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.11.28-15.12.29:166][  5]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.11.28-15.12.29:181][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.11.28-15.12.29:238][ 10]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.11.28-15.12.29:238][ 10]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.11.28-15.12.29:477][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.11.28-15.12.29:733][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.11.28-15.12.29:764][ 32]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.11.28-15.12.29:840][ 34]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.11.28-15.12.30:116][ 39]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.11.28-15.12.30:538][ 60]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.11.28-15.12.30:732][ 70]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.12.30:761][ 70]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.11.28-15.12.30:761][ 70]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.11.28-15.12.30:873][ 73]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2020.11.28-15.12.31:224][ 82]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.11.28-15.12.31:622][ 91]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.11.28-15.12.31:686][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.11.28-15.12.31:808][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.11.28-15.12.31:838][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.11.28-15.12.32:051][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.11.28-15.12.32:080][110]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.11.28-15.12.32:222][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.11.28-15.12.32:238][119]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.11.28-15.12.32:238][119]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.28-15.12.32:404][128]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.11.28-15.12.32:816][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.11.28-15.12.32:956][154]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.12.32:987][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.11.28-15.12.33:118][157]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.11.28-15.12.33:374][165]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.11.28-15.12.33:410][167]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.11.28-15.12.33:779][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.11.28-15.12.34:156][188]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.11.28-15.12.34:267][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.11.28-15.12.34:380][193]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.11.28-15.12.34:460][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.11.28-15.12.34:638][203]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.11.28-15.12.34:683][206]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.11.28-15.12.34:717][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.11.28-15.12.34:769][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.28-15.12.35:000][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.11.28-15.12.35:389][240]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.11.28-15.12.35:493][245]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.12.35:523][245]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.11.28-15.12.35:528][245]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.11.28-15.12.35:742][250]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.11.28-15.12.36:122][259]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.11.28-15.12.36:221][262]LogMaterialEditor: Saving and Compiling material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.11.28-15.12.36:740][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.11.28-15.12.36:760][262]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.12.36:840][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.11.28-15.12.36:861][262]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.12.36:888][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.11.28-15.12.36:902][262]LogMaterial: Display: Missing cached shader map for material Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat, compiling. 
+[2020.11.28-15.12.36:971][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.11.28-15.12.36:983][262]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 65
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2020.11.28-15.12.40:008][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.11.28-15.12.40:009][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.11.28-15.12.40:012][262]TextureStreamingBuild: Display: Compiling optional shaders took 3.041 seconds.
+[2020.11.28-15.12.40:050][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.11.28-15.12.42:462][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.11.28-15.12.42:462][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.11.28-15.12.42:462][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.11.28-15.12.42:462][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.28-15.12.42:462][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.11.28-15.12.42:536][262]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_PlatBAC1EDA14C3CEE4267BD5D88F29291FC.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset'
+[2020.11.28-15.12.42:549][262]MaterialEditorStats: Base pass shader: 128 instructions
+[2020.11.28-15.12.42:549][262]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.11.28-15.12.42:549][262]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.11.28-15.12.42:549][262]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.11.28-15.12.42:549][262]MaterialEditorStats: Texture samplers: 6/16
+[2020.11.28-15.12.42:549][262]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.11.28-15.12.42:549][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.28-15.12.42:915][275]LogSlate: Window 'Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat' being destroyed
+[2020.11.28-15.12.43:001][275]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.28-15.12.47:726][488]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_PlatSupMatE2ADE3C543D1071D855E65A4FCDF6130.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Alt_IP_PlatSupMat.uasset'
+[2020.11.28-15.12.47:870][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.11.28-15.12.47:904][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.11.28-15.12.47:933][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.28-15.12.47:986][488]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_PlatSup464ED7D8470FB169176DBD9BFABD958D.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Alt_IP_PlatSup.uasset'
+[2020.11.28-15.13.05:145][230]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_CP_Alto_do_IpirangaA4577D7D44AB76A7A97668890D776397.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alto_do/Plataforma_CP_Alto_do_Ipiranga.uasset'
+[2020.11.28-15.13.05:193][230]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_CP_Alto_do_Ipiranga6DCF3EA3404696EC3AE60FAD1110262B.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga.uasset'
+[2020.11.28-15.13.05:225][230]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPD5840E6843A509D199F115A61B75409E.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alto_do/Alt_IP_CP.uasset'
+[2020.11.28-15.13.05:254][230]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPMat3D6BB5804616EA9C5D06618346C00DF7.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alto_do/Alt_IP_CPMat.uasset'
+[2020.11.28-15.13.05:290][230]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_ORM972FF39A4DABAFFDC333779D103949C2.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alto_do/Texture/Alt_IP_CP_ORM.uasset'
+[2020.11.28-15.13.05:358][230]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_NRMF8F4B2EC4325670825734594A3C6F096.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alto_do/Texture/Alt_IP_CP_NRM.uasset'
+[2020.11.28-15.13.05:406][230]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_BC5A7CA5684B3E1FE9CF5BE7B454E03CC2.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alto_do/Texture/Alt_IP_CP_BC.uasset'
+[2020.11.28-15.13.05:880][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.28-15.13.05:909][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.13.05:937][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.28-15.13.05:964][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.28-15.13.05:989][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.13.06:022][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.28-15.13.06:047][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.28-15.13.13:615][611]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_CP_Alto_do_IpirangaFE125CD44470821628A336BD41549D2E.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alt_IP_CP/Plataforma_CP_Alto_do_Ipiranga.uasset'
+[2020.11.28-15.13.13:645][611]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPC0FF1C814600643BDD3CFEAA13045C29.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alt_IP_CP/Alt_IP_CP.uasset'
+[2020.11.28-15.13.13:673][611]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CPMat2CD94F3B4DA1314BCBF0C5B005FFEFA7.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alt_IP_CP/Alt_IP_CPMat.uasset'
+[2020.11.28-15.13.13:716][611]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_ORM025E91E647B3A55A5B0BDB9004790CA7.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alt_IP_CP/Texture/Alt_IP_CP_ORM.uasset'
+[2020.11.28-15.13.13:781][611]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_NRMF29EC60743033196AC73288E8729775C.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alt_IP_CP/Texture/Alt_IP_CP_NRM.uasset'
+[2020.11.28-15.13.13:828][611]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Alt_IP_CP_BC6AAB6954499AF2014D2BEA86025BAE40.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alt_IP_CP/Texture/Alt_IP_CP_BC.uasset'
+[2020.11.28-15.13.14:390][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.28-15.13.14:416][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.28-15.13.14:443][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.28-15.13.14:470][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.28-15.13.14:497][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.28-15.13.14:525][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.28-15.13.14:558][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.28-15.13.14:583][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.28-15.13.14:629][611]LogSavePackage: Moving 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Plataforma_CP_Alto_do_IpirangaF640BE974E5E2EAC8DB4CD8E2293D884.tmp' to 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga.uasset'
+[2020.11.28-15.13.34:370][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.28-15.13.37:704][586]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.28-15.13.37:840][586]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga.Plataforma_CP_Alto_do_Ipiranga
+[2020.11.28-15.13.39:386][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.11.28-15.13.39:414][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.11.28-15.13.39:441][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.28-15.13.46:835][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.28-15.13.54:892][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:892][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:896][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:897][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:898][270]LogLinker: Warning: Failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:898][270]LogLinker: Warning: Failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:898][270]LogLinker: Warning: Failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:898][270]LogLinker: Warning: Failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:898][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:899][270]LoadErrors: Failed to load /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga Referenced by PackageMetaData
+[2020.11.28-15.13.54:899][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:899][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:899][270]LoadErrors: Failed to load /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga.Plataforma_CP_Alto_do_Ipiranga Referenced by PackageMetaData
+[2020.11.28-15.13.54:899][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:899][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:899][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:900][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:900][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:900][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:900][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:900][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:901][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:901][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:901][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:901][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:901][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:922][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.54:923][270]LoadErrors: Failed to load /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga.Plataforma_CP_Alto_do_Ipiranga Referenced by Plataforma_CP_Alto_do_Ipiranga_2
+[2020.11.28-15.13.54:923][270]LogLinker: Warning: While loading 'C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap' failed to load '/Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga': Can't find file.
+[2020.11.28-15.13.55:180][270]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.28-15.13.56:913][270]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.733 s
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: 
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: Ensure condition failed: !SearchArray[*IndexPtr].Blueprint.IsValid() || SearchArray[*IndexPtr].Blueprint == BlueprintObject [File:D:/Build/++UE4/Sync/Engine/Source/Editor/Kismet/Private/FindInBlueprintManager.cpp] [Line: 1736]
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: Blueprint in database has path /Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga and is being stomped by /Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: Stack: 
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca582e998 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca545e54a UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca542380e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca99fa79a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca99e5c87 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca9a0a063 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca9a08fba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca9a1bc10 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca9a2f010 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca9a2e78e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffc956a62ee UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffc95663f69 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffc956ae94f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffc95661b9a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffc9565e410 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffc956b8870 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffc956aecc1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca7ae47fa UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca7b6968e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca7b544a9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffca7b49432 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffcf84f4daf UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffcf84e26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffcf84f7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffcf84dedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffd2a9be858 USER32.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffd2a9be299 USER32.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffcf84f88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ff724d96980 UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ff724daa91c UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ff724daa9fa UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ff724dbb92c UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ff724dbe60e UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffd2b577034 KERNEL32.DLL!UnknownFunction []
+[2020.11.28-15.13.56:913][270]LogOutputDevice: Error: [Callstack] 0x00007ffd2c41cec1 ntdll.dll!UnknownFunction []
+[2020.11.28-15.13.56:914][270]LogOutputDevice: Error: 
+[2020.11.28-15.13.56:915][270]LogStats:                SubmitErrorReport -  0.000 s
+[2020.11.28-15.14.02:318][270]LogStats:                    SendNewReport -  5.404 s
+[2020.11.28-15.14.02:318][270]LogStats:             FDebug::EnsureFailed -  7.138 s
+[2020.11.28-15.14.02:319][270]LogAIModule: Creating AISystem for world EstacaoAltoIpiranga
+[2020.11.28-15.14.02:349][270]LogAssetEditorManager: Opening Asset editor for World /Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga
+[2020.11.28-15.14.02:380][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.11.28-15.14.02:381][270]Cmd: MAP LOAD FILE="C:/Users/salles/Desktop/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.28-15.14.02:381][270]LightingResults: New page: Lighting Build
+[2020.11.28-15.14.02:381][270]LoadErrors: New page: Loading map: EstacaoAltoIpiranga.umap
+[2020.11.28-15.14.02:382][270]LogWorld: UWorld::CleanupWorld for Station, bSessionEnded=true, bCleanupResources=true
+[2020.11.28-15.14.02:389][270]MapCheck: New page: Map Check
+[2020.11.28-15.14.02:390][270]LightingResults: New page: Lighting Build
+[2020.11.28-15.14.02:426][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.11.28-15.14.02:439][270]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.28-15.14.02:471][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.11.28-15.14.02:513][270]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.28-15.14.02:513][270]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2020.11.28-15.14.02:513][270]LogFileHelpers: Loading map 'EstacaoAltoIpiranga' took 0.132
+[2020.11.28-15.23.12:317][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.28-15.23.15:760][649]LogEditorViewport: Clicking Background
+[2020.11.28-15.23.17:860][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plataforma_CP_Alto_do_Ipiranga)
+[2020.11.28-15.23.21:595][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.28-15.23.28:938][160]Cmd: TRANSACTION UNDO
+[2020.11.28-15.23.28:938][160]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.28-15.23.29:916][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plataforma_CP_Alto_do_Ipiranga)
+[2020.11.28-15.23.30:502][218]Cmd: TRANSACTION UNDO
+[2020.11.28-15.23.30:502][218]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.28-15.23.30:726][227]Cmd: TRANSACTION UNDO
+[2020.11.28-15.23.30:726][227]LogEditorTransaction: Undo Clicking Background
+[2020.11.28-15.23.31:315][249]Cmd: TRANSACTION UNDO
+[2020.11.28-15.23.31:315][249]LogEditorTransaction: Undo Set Scale
+[2020.11.28-15.23.31:520][256]Cmd: TRANSACTION UNDO
+[2020.11.28-15.23.31:520][256]LogEditorTransaction: Undo Scale Actors
+[2020.11.28-15.23.32:696][296]Cmd: TRANSACTION UNDO
+[2020.11.28-15.23.32:696][296]LogEditorTransaction: Undo Scale Actors
+[2020.11.28-15.23.34:278][355]Cmd: TRANSACTION UNDO
+[2020.11.28-15.23.34:278][355]LogEditorTransaction: Undo Edit Static Mesh
+[2020.11.28-15.23.36:761][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.28-15.23.48:873][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.28-15.23.49:055][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.11.28-15.23.49:437][184]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.28-15.23.49:940][184]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.502 s
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: 
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: Ensure condition failed: InBlueprint == LevelScriptBlueprint [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Level.cpp] [Line: 1999]
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: Level ('/Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga:PersistentLevel.EstacaoAltoIpiranga') received OnLevelScriptBlueprintChanged notification for the wrong Blueprint ('/Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga:PersistentLevel.Train_4_BPClass').
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: Stack: 
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffcab6ad1d2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffcaa78ba8d UE4Editor-Engine.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca5233aa0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca6b460e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffcab10889e UE4Editor-Engine.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca99b9e9b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca677795f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca67782f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca67af3b8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca67abc3b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca6f77cd0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca6b146fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca6b12002 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca6b11501 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca054f687 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7b27fda UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7c0a262 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7beccf4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7c858b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7ca14b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7ae5231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7b6b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7b552e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffca7b49c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffcf84f4e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffcf84e26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffcf84f7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffcf84dedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffd2a9be858 USER32.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffd2a9be299 USER32.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffcf84f88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ff724d96980 UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ff724daa91c UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ff724daa9fa UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ff724dbb92c UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ff724dbe60e UE4Editor.exe!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffd2b577034 KERNEL32.DLL!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: [Callstack] 0x00007ffd2c41cec1 ntdll.dll!UnknownFunction []
+[2020.11.28-15.23.49:940][184]LogOutputDevice: Error: 
+[2020.11.28-15.23.49:945][184]LogStats:                SubmitErrorReport -  0.000 s
