@@ -670,3 +670,83 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.30-18.23.46:681][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2020.11.30-18.23.46:926][711]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EstacaoMaspEA440AC042D2276077F2C38A3FCE458A.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoMasp.umap'
 [2020.11.30-18.23.46:984][711]LogFileHelpers: Saving map 'EstacaoMasp' took 0.336
+[2020.11.30-18.24.50:745][591]LogEditorViewport: Clicking on Actor (LMB): Catraca_C (Catraca5)
+[2020.11.30-18.24.56:144][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-18.24.59:284][585]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.11.30-18.25.12:049][585]LogSlate: Window 'Save Asset As' being destroyed
+[2020.11.30-18.25.12:052][585]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2020.11.30-18.25.12:072][585]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/MyContent/Animation/Masp/AbrirCatraca5.AbrirCatraca5
+[2020.11.30-18.25.20:956][626]LogEditorViewport: Clicking on Actor (LMB): Catraca_C (Catraca5)
+[2020.11.30-18.25.21:887][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-18.25.25:053][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-18.25.27:623][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-18.25.30:754][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.26.07:158][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.26.16:024][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.26.16:194][205]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/AbrirCatraca51E035BD342263477BC0CF8943DBEDDB4.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Animation/Masp/AbrirCatraca5.uasset'
+[2020.11.30-18.26.19:816][633]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (AbrirCatraca5)
+[2020.11.30-18.26.25:372][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.26.33:062][208]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  OnActorBeginOverlap (TriggerBox7)  and was replaced as a Custom Event!
+[2020.11.30-18.26.33:062][208]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_1   conflicted with  OnActorEndOverlap (TriggerBox7)  and was replaced as a Custom Event!
+[2020.11.30-18.26.56:400][952]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox3)
+[2020.11.30-18.26.57:401][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.27.23:627][154]BlueprintLog: New page: Compile EstacaoMasp
+[2020.11.30-18.27.23:817][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.11.30-18.27.24:941][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.11.30-18.27.25:198][279]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EstacaoMaspFF20D5DA4A80B26E4725A9BB1985FA7A.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoMasp.umap'
+[2020.11.30-18.27.25:255][279]LogFileHelpers: Saving map 'EstacaoMasp' took 0.344
+[2020.11.30-18.27.27:647][546]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/AbrirCatraca5E778ACAF4C8571489413A1A9AF43F4E7.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Animation/Masp/AbrirCatraca5.uasset'
+[2020.11.30-18.27.29:090][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.30-18.27.38:711][862]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  OnActorBeginOverlap (TriggerBox3)  and was replaced as a Custom Event!
+[2020.11.30-18.27.38:711][862]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_1   conflicted with  OnActorEndOverlap (TriggerBox3)  and was replaced as a Custom Event!
+[2020.11.30-18.27.49:457][111]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox2)
+[2020.11.30-18.27.50:509][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.28.17:895][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.11.30-18.28.19:710][446]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-18.28.19:756][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.11.30-18.28.19:796][446]LogBlueprint: Error: [Compiler PersistentLevel.EstacaoMasp] This blueprint (self) is not a LevelSequenceActor, therefore ' Target ' must have a connection.
+[2020.11.30-18.28.19:796][446]LogBlueprint: Error: [Compiler PersistentLevel.EstacaoMasp] This blueprint (self) is not a LevelSequenceActor, therefore ' Target ' must have a connection.
+[2020.11.30-18.28.20:056][446]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EstacaoMaspE46D366B415A64B90A4D7B9E8B8D2B7A.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoMasp.umap'
+[2020.11.30-18.28.20:114][446]LogFileHelpers: Saving map 'EstacaoMasp' took 0.391
+[2020.11.30-18.28.36:411][ 35]LogSlate: Window 'Save Asset As' being destroyed
+[2020.11.30-18.28.36:435][ 35]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/MyContent/Animation/Masp/AbrirCatraca6.AbrirCatraca6
+[2020.11.30-18.28.46:326][164]LogEditorViewport: Clicking on Actor (LMB): Catraca_C (Catraca6)
+[2020.11.30-18.28.47:467][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-18.28.55:652][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-18.28.58:744][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-18.29.01:288][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.29.33:413][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.29.39:055][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.29.39:261][462]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/AbrirCatraca666498DE7401664A3170904BDF673643F.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Animation/Masp/AbrirCatraca6.uasset'
+[2020.11.30-18.29.41:323][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.30-18.29.42:670][702]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-18.29.42:712][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.30-18.29.42:722][702]LogBlueprint: Error: [Compiler PersistentLevel.EstacaoMasp] This blueprint (self) is not a LevelSequenceActor, therefore ' Target ' must have a connection.
+[2020.11.30-18.29.42:722][702]LogBlueprint: Error: [Compiler PersistentLevel.EstacaoMasp] This blueprint (self) is not a LevelSequenceActor, therefore ' Target ' must have a connection.
+[2020.11.30-18.29.42:962][702]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EstacaoMasp9B41FF1D4E0E5D917738DCAFA56563FE.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoMasp.umap'
+[2020.11.30-18.29.43:019][702]LogFileHelpers: Saving map 'EstacaoMasp' took 0.337
+[2020.11.30-18.29.50:700][619]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (AbrirCatraca6)
+[2020.11.30-18.29.51:775][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.30.02:806][ 26]BlueprintLog: New page: Compile EstacaoMasp
+[2020.11.30-18.30.02:992][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.11.30-18.30.04:178][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.11.30-18.30.04:440][157]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EstacaoMasp5892FA2D4F7F7C02252F42975AA3F80D.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoMasp.umap'
+[2020.11.30-18.30.04:498][157]LogFileHelpers: Saving map 'EstacaoMasp' took 0.352
+[2020.11.30-18.30.07:279][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.11.30-18.30.13:119][102]LogEditorViewport: Clicking Background
+[2020.11.30-18.30.15:990][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-18.30.18:159][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.30.48:917][272]BlueprintLog: New page: Compile EstacaoMasp
+[2020.11.30-18.30.49:103][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.11.30-18.30.49:908][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.11.30-18.30.50:168][355]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EstacaoMasp17B326F84CFBDDFA0E8C31BA9D407E84.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoMasp.umap'
+[2020.11.30-18.30.50:229][355]LogFileHelpers: Saving map 'EstacaoMasp' took 0.354
+[2020.11.30-18.31.19:716][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plataforma_Masp_Bilheteria)
+[2020.11.30-18.31.21:568][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.31.21:757][721]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_Masp_Bilheteria/Masp_Bilheteria.Masp_Bilheteria
+[2020.11.30-18.31.22:391][722]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.11.30-18.32.18:951][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.32.19:132][925]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Masp_Bilheteria017927CC40BAF1222AB1EBA96178162A.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_Masp_Bilheteria/Masp_Bilheteria.uasset'
+[2020.11.30-18.32.35:923][356]LogEditorViewport: Clicking Background
+[2020.11.30-18.32.38:525][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-18.32.38:697][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
