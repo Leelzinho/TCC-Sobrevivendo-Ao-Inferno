@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+﻿Log file open, 12/01/20 13:01:12
+=======
 ﻿Log file open, 11/30/20 21:55:35
+>>>>>>> parent of 390a163... Build 1 sem inimigos
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +12,13 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: Tentativa4
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.124112
+=======
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.323714
+>>>>>>> parent of 390a163... Build 1 sem inimigos
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -157,6 +166,412 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.01-16.01.13:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.01-16.01.13:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.01-16.01.13:035][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.01-16.01.13:037][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.01-16.01.13:037][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.01-16.01.13:038][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.01-16.01.13:038][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.01-16.01.13:038][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.01-16.01.13:062][  0]LogHAL: Display: Platform has ~ 24 GB [25715486720 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.01-16.01.13:062][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.01-16.01.13:062][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.01-16.01.13:062][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.01-16.01.13:063][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.01-16.01.13:066][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.01-16.01.13:066][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.01-16.01.13:066][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.01-16.01.13:066][  0]LogInit: Computer: DESKTOP-J58AG85
+[2020.12.01-16.01.13:066][  0]LogInit: User: leoda
+[2020.12.01-16.01.13:066][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.12.01-16.01.13:066][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.01-16.01.13:066][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.12.01-16.01.13:066][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.01-16.01.13:066][  0]LogMemory: Process Physical Memory: 105.08 MB used, 105.08 MB peak
+[2020.12.01-16.01.13:066][  0]LogMemory: Process Virtual Memory: 106.08 MB used, 106.08 MB peak
+[2020.12.01-16.01.13:067][  0]LogMemory: Physical Memory: 8113.00 MB used,  16411.20 MB free, 24524.20 MB total
+[2020.12.01-16.01.13:067][  0]LogMemory: Virtual Memory: 4708.50 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2020.12.01-16.01.13:070][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.01-16.01.13:399][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.12.01-16.01.13:399][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.12.01-16.01.13:661][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.01-16.01.13:821][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.01-16.01.13:821][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.01-16.01.18:934][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.01-16.01.18:934][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.01-16.01.19:008][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2020.12.01-16.01.19:008][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.01-16.01.19:010][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.01-16.01.19:010][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.01-16.01.19:010][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.01-16.01.19:018][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.01-16.01.19:018][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.01-16.01.19:018][  0]LogWindows: EnumDisplayDevices:
+[2020.12.01-16.01.19:018][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2020.12.01-16.01.19:018][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.12.01-16.01.19:018][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.12.01-16.01.19:019][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.12.01-16.01.19:019][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.01-16.01.19:019][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2020.12.01-16.01.19:019][  0]LogD3D11RHI:   Driver Version: 457.30 (internal:27.21.14.5730, unified:457.30)
+[2020.12.01-16.01.19:019][  0]LogD3D11RHI:      Driver Date: 11-6-2020
+[2020.12.01-16.01.19:019][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.12.01-16.01.19:068][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.01-16.01.19:089][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.01-16.01.19:335][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.12.01-16.01.19:343][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.12.01-16.01.19:352][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.12.01-16.01.19:360][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.12.01-16.01.19:380][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.12.01-16.01.19:388][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.12.01-16.01.19:397][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.01-16.01.19:405][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.12.01-16.01.19:409][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.12.01-16.01.19:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.12.01-16.01.19:473][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.12.01-16.01.19:524][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.12.01-16.01.19:524][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.12.01-16.01.19:549][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.12.01-16.01.19:549][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.12.01-16.01.19:555][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.12.01-16.01.19:561][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.01-16.01.19:568][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.12.01-16.01.19:653][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.12.01-16.01.19:678][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.12.01-16.01.19:678][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.12.01-16.01.19:679][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.01-16.01.19:805][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.01-16.01.19:910][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Intermediate/Shaders/WorkingDirectory/2864/).
+[2020.12.01-16.01.19:910][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/leoda/AppData/Local/Temp/UnrealShaderWorkingDir/9831BCB74F07B12AAC999D9984971F39/'.
+[2020.12.01-16.01.19:912][  0]LogXGEController: Cleaning working directory: C:/Users/leoda/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.01-16.01.19:913][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.01-16.01.19:913][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.01-16.01.19:913][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.01-16.01.22:659][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.01-16.01.22:778][  0]LogDerivedDataCache: Loaded boot cache 0.12s 1MB C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.01-16.01.22:778][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.12.01-16.01.22:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.01-16.01.22:778][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.01-16.01.22:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.01-16.01.22:778][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.01-16.01.22:807][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.01-16.01.22:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.01-16.01.22:807][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.01-16.01.22:809][  0]LogDerivedDataCache: Using Local data cache path C:/Users/leoda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.01-16.01.22:809][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.01-16.01.22:809][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.01-16.01.22:826][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.01-16.01.22:829][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.01-16.01.22:862][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.01-16.01.23:625][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.12.01-16.01.23:893][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.01-16.01.24:852][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.01-16.01.24:852][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.01-16.01.24:852][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.01-16.01.24:852][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.01-16.01.24:852][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.01-16.01.24:914][  0]LogNetVersion: Tentativa4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 811232057)
+[2020.12.01-16.01.27:683][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.050824 seconds
+[2020.12.01-16.01.27:691][  0]LogUObjectArray: 43447 objects as part of root set at end of initial load.
+[2020.12.01-16.01.27:691][  0]LogUObjectAllocator: 7549240 out of 0 bytes used by permanent object pool.
+[2020.12.01-16.01.27:691][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.01-16.01.42:014][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.01-16.01.42:018][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.01-16.01.42:109][  0]SourceControl: Source control is disabled
+[2020.12.01-16.01.42:109][  0]SourceControl: Source control is disabled
+[2020.12.01-16.01.42:110][  0]SourceControl: Source control is disabled
+[2020.12.01-16.01.42:111][  0]SourceControl: Source control is disabled
+[2020.12.01-16.01.42:381][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.01-16.01.42:575][  0]LogOcInput: OculusInput pre-init called
+[2020.12.01-16.01.42:583][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.01-16.01.42:583][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.01-16.01.42:754][  0]LogEngine: Initializing Engine...
+[2020.12.01-16.01.42:754][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.01-16.01.42:755][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.01-16.01.43:517][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.01-16.01.43:531][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.01-16.01.43:549][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.12.01-16.01.43:564][  0]LogInit: FAudioDevice initialized.
+[2020.12.01-16.01.43:565][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.01-16.01.43:743][  0]LogDerivedDataCache: Saved boot cache 0.18s 73MB C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.01-16.01.43:747][  0]LogInit: Texture streaming: Enabled
+[2020.12.01-16.01.43:783][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.01-16.01.43:783][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.01-16.01.43:783][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.01-16.01.43:866][  0]LogInit: Transaction tracking system initialized
+[2020.12.01-16.01.43:897][  0]BlueprintLog: New page: Editor Load
+[2020.12.01-16.01.43:989][  0]LocalizationService: Localization service is disabled
+[2020.12.01-16.01.44:076][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.12.01-16.01.44:077][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.12.01-16.01.44:077][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.12.01-16.01.48:625][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.01-16.01.48:625][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.01-16.01.48:750][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/' took 0.03s
+[2020.12.01-16.01.49:524][  0]SourceControl: Source control is disabled
+[2020.12.01-16.01.49:525][  0]Cmd: MAP LOAD FILE="../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Casa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.01-16.01.49:525][  0]LightingResults: New page: Lighting Build
+[2020.12.01-16.01.49:527][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-16.01.49:528][  0]MapCheck: New page: Map Check
+[2020.12.01-16.01.49:528][  0]LightingResults: New page: Lighting Build
+[2020.12.01-16.01.49:554][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.01-16.01.54:800][  0]LogAIModule: Creating AISystem for world Casa
+[2020.12.01-16.01.54:805][  0]LogMaterial: Display: Material /Game/MyContent/Models/Models/Casa/Casa_PortaMat.Casa_PortaMat needed to have new flag set bUsedWithStaticLighting !
+[2020.12.01-16.01.54:811][  0]LogMaterial: Display: Missing cached shader map for material Casa_PortaMat, compiling. 
+[2020.12.01-16.01.54:867][  0]MapCheck: Warning: Casa_PortaMat Material /Game/MyContent/Models/Models/Casa/Casa_PortaMat.Casa_PortaMat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.12.01-16.01.54:966][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.12.01-16.01.54:966][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.01-16.01.54:996][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.12.01-16.01.54:996][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.01-16.01.54:996][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.18ms to complete.
+[2020.12.01-16.01.55:002][  0]LogFileHelpers: Loading map 'Casa' took 5.477
+[2020.12.01-16.01.55:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-16.01.55:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-16.01.55:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-16.01.55:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-16.01.55:511][  0]LogCollectionManager: Loaded 0 collections in 0.002822 seconds
+[2020.12.01-16.01.55:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Collections/' took 0.00s
+[2020.12.01-16.01.55:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/Developers/leoda/Collections/' took 0.00s
+[2020.12.01-16.01.55:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/Collections/' took 0.00s
+[2020.12.01-16.01.55:522][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.12.01-16.01.55:533][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2863 classes and 680 folders.
+[2020.12.01-16.01.55:543][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.01-16.01.56:445][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.01-16.01.56:453][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.12.01-16.01.56:528][  0]LogSlate: Took 0.005548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.01-16.01.56:534][  0]LogSlate: Took 0.004384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.01-16.01.56:780][  0]LogRenderer: Reallocating scene render targets to support 1148x624 Format 10 NumSamples 1 (Frame:1).
+[2020.12.01-16.01.56:889][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.01-16.01.56:889][  0]LogLoad: (Engine Initialization) Total time: 51.44 seconds
+[2020.12.01-16.01.56:889][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.01-16.01.56:943][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.01-16.01.59:147][ 26]LogAssetRegistry: Asset discovery search completed in 35.5240 seconds
+[2020.12.01-16.01.59:150][ 26]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.12.01-16.01.59:150][ 26]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2020.12.01-16.02.03:180][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.01-16.02.03:243][506]LogSlate: Took 0.062162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.01-16.02.03:267][506]LogSlate: Took 0.015086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.01-16.02.20:617][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.01-16.02.20:749][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.01-16.02.56:998][198]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={441A1A73-44F6-A6DA-D17D-5287972FEC4F}
+=======
 [2020.12.01-00.55.38:138][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.12.01-00.55.38:138][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.12.01-00.55.38:139][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
@@ -1846,3 +2261,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.01-01.21.01:244][623]LogD3D11RHI: ~FD3D11DynamicRHI
 [2020.12.01-01.21.01:279][623]LogExit: Exiting.
 [2020.12.01-01.21.01:291][623]Log file closed, 11/30/20 22:21:01
+>>>>>>> parent of 390a163... Build 1 sem inimigos
