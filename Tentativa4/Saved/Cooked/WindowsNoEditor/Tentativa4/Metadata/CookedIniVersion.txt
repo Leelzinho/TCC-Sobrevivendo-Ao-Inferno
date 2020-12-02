@@ -29,7 +29,7 @@ Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/My
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/MyContent/Maps/Station.Station
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/MyContent/Maps/Casa.Casa
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=True
@@ -1904,7 +1904,7 @@ Windows.Game:StartupActions:bAddPacks:0=False
 Windows.Game:StartupActions:InsertPack:0=(PackSource="StarterContent.upack",PackName="StarterContent")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/EXE")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/leoda/Desktop/EXE")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
@@ -2012,6 +2012,7 @@ Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowHeight:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=27878F80437FABC1A2BEA28AAFADAED2
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectDisplayedTitle:0=NSLOCTEXT("[/Script/EngineSettings]", "333304914EB4517B796EB3A33FA6C8FE", "Sobrevivendo Ao Inferno")
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:bAllowWindowResize:0=False
+Windows.Game:/Script/EngineSettings.GeneralProjectSettings:bUseBorderlessWindow:0=True
 Windows.Game:/Script/Engine.HUD:DebugDisplay:0=AI
 Windows.Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Windows.Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
