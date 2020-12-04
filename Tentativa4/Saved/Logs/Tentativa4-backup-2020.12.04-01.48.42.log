@@ -1,0 +1,1187 @@
+﻿Log file open, 12/03/20 17:30:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tentativa4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.753649
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.03-20.30.03:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.03-20.30.03:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.03-20.30.03:775][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.03-20.30.03:798][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.03-20.30.03:798][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.03-20.30.03:799][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.03-20.30.03:799][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.03-20.30.03:799][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.03-20.30.03:820][  0]LogHAL: Display: Platform has ~ 24 GB [25715486720 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.03-20.30.03:820][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.03-20.30.03:825][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.03-20.30.03:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.03-20.30.03:826][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.03-20.30.03:840][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.03-20.30.03:840][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.03-20.30.03:840][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.03-20.30.03:840][  0]LogInit: Computer: DESKTOP-J58AG85
+[2020.12.03-20.30.03:840][  0]LogInit: User: leoda
+[2020.12.03-20.30.03:840][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.12.03-20.30.03:840][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.03-20.30.03:840][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.12.03-20.30.03:840][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.03-20.30.03:840][  0]LogMemory: Process Physical Memory: 105.08 MB used, 105.08 MB peak
+[2020.12.03-20.30.03:840][  0]LogMemory: Process Virtual Memory: 105.90 MB used, 105.90 MB peak
+[2020.12.03-20.30.03:840][  0]LogMemory: Physical Memory: 6009.11 MB used,  18515.09 MB free, 24524.20 MB total
+[2020.12.03-20.30.03:840][  0]LogMemory: Virtual Memory: 4708.50 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2020.12.03-20.30.03:862][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.03-20.30.04:847][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.12.03-20.30.04:847][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.12.03-20.30.05:514][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.03-20.30.06:152][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.03-20.30.06:152][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.03-20.30.14:780][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.03-20.30.14:784][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.03-20.30.14:875][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2020.12.03-20.30.14:875][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.03-20.30.14:877][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.03-20.30.14:877][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.03-20.30.14:877][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.03-20.30.14:926][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.03-20.30.14:926][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.03-20.30.14:926][  0]LogWindows: EnumDisplayDevices:
+[2020.12.03-20.30.14:926][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2020.12.03-20.30.14:926][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.12.03-20.30.14:926][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.12.03-20.30.14:926][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.12.03-20.30.14:926][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.03-20.30.14:926][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2020.12.03-20.30.14:927][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2020.12.03-20.30.14:927][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2020.12.03-20.30.14:927][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.12.03-20.30.14:990][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.03-20.30.15:023][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.03-20.30.15:869][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.12.03-20.30.15:886][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.12.03-20.30.15:903][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.12.03-20.30.15:918][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.12.03-20.30.15:954][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.12.03-20.30.15:964][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.12.03-20.30.15:985][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.03-20.30.16:016][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.12.03-20.30.16:032][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.12.03-20.30.16:097][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.12.03-20.30.16:108][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.12.03-20.30.16:176][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.12.03-20.30.16:176][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.12.03-20.30.16:198][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.12.03-20.30.16:198][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.12.03-20.30.16:206][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.12.03-20.30.16:213][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.03-20.30.16:246][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.12.03-20.30.16:268][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.12.03-20.30.16:295][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.12.03-20.30.16:295][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.12.03-20.30.16:295][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.03-20.30.16:402][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.03-20.30.16:762][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Intermediate/Shaders/WorkingDirectory/3028/).
+[2020.12.03-20.30.16:762][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/leoda/AppData/Local/Temp/UnrealShaderWorkingDir/D3A91E9E458CC00EDAD457A24DB9D22A/'.
+[2020.12.03-20.30.16:772][  0]LogXGEController: Cleaning working directory: C:/Users/leoda/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.03-20.30.16:772][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.03-20.30.16:772][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.03-20.30.16:772][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.03-20.30.20:414][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.03-20.30.21:257][  0]LogDerivedDataCache: Loaded boot cache 0.81s 73MB C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.03-20.30.21:258][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.12.03-20.30.21:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.03-20.30.21:258][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.03-20.30.21:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.03-20.30.21:258][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.03-20.30.21:369][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.03-20.30.21:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.03-20.30.21:370][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.03-20.30.21:391][  0]LogDerivedDataCache: Using Local data cache path C:/Users/leoda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.03-20.30.21:391][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.03-20.30.21:391][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.03-20.30.21:409][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.03-20.30.21:443][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.03-20.30.21:504][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.03-20.30.22:536][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.12.03-20.30.23:672][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.03-20.30.24:568][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.03-20.30.24:569][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.03-20.30.24:569][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.03-20.30.24:569][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.03-20.30.24:569][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.03-20.30.24:815][  0]LogNetVersion: Tentativa4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 811232057)
+[2020.12.03-20.30.27:751][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.065982 seconds
+[2020.12.03-20.30.27:758][  0]LogUObjectArray: 43447 objects as part of root set at end of initial load.
+[2020.12.03-20.30.27:758][  0]LogUObjectAllocator: 7549240 out of 0 bytes used by permanent object pool.
+[2020.12.03-20.30.27:758][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.03-20.30.45:930][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.03-20.30.45:949][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.03-20.30.46:546][  0]SourceControl: Source control is disabled
+[2020.12.03-20.30.46:546][  0]SourceControl: Source control is disabled
+[2020.12.03-20.30.46:573][  0]SourceControl: Source control is disabled
+[2020.12.03-20.30.46:641][  0]SourceControl: Source control is disabled
+[2020.12.03-20.30.47:492][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.03-20.30.47:979][  0]LogOcInput: OculusInput pre-init called
+[2020.12.03-20.30.48:136][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.03-20.30.48:136][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.03-20.30.48:493][  0]LogEngine: Initializing Engine...
+[2020.12.03-20.30.48:564][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.03-20.30.48:565][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.03-20.30.49:375][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.03-20.30.49:567][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.03-20.30.49:657][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.12.03-20.30.49:684][  0]LogInit: FAudioDevice initialized.
+[2020.12.03-20.30.49:685][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.03-20.30.49:896][  0]LogDerivedDataCache: Saved boot cache 0.21s 73MB C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.03-20.30.49:900][  0]LogInit: Texture streaming: Enabled
+[2020.12.03-20.30.49:990][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.03-20.30.49:990][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.03-20.30.49:991][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.03-20.30.50:294][  0]LogInit: Transaction tracking system initialized
+[2020.12.03-20.30.51:258][  0]BlueprintLog: New page: Editor Load
+[2020.12.03-20.30.52:449][  0]LocalizationService: Localization service is disabled
+[2020.12.03-20.31.05:071][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.03-20.31.05:071][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.03-20.31.06:155][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/' took 0.03s
+[2020.12.03-20.31.09:763][  0]SourceControl: Source control is disabled
+[2020.12.03-20.31.09:807][  0]Cmd: MAP LOAD FILE="../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Casa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.03-20.31.09:900][  0]LightingResults: New page: Lighting Build
+[2020.12.03-20.31.10:161][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-20.31.10:217][  0]MapCheck: New page: Map Check
+[2020.12.03-20.31.10:217][  0]LightingResults: New page: Lighting Build
+[2020.12.03-20.31.10:464][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.03-20.31.43:314][  0]LogDerivedDataCache: Warning: C:/Users/leoda/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.02MB/s) when accessing C:/Users/leoda/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/9/STATICMESH_B5FB810437E4428D9CC6367AE010BEEC_228332BAE0224DD294E232B87D83948FQU__D0AD906D94B7EE3790DC16552E324D5E477DBF28.udd, consider disabling it.
+[2020.12.03-20.31.47:749][  0]LogAIModule: Creating AISystem for world Casa
+[2020.12.03-20.31.47:775][  0]LogMaterial: Display: Material /Game/MyContent/Models/Models/Casa/Casa_PortaMat.Casa_PortaMat needed to have new flag set bUsedWithStaticLighting !
+[2020.12.03-20.31.47:845][  0]LogMaterial: Display: Missing cached shader map for material Casa_PortaMat, compiling. 
+[2020.12.03-20.31.47:896][  0]MapCheck: Warning: Casa_PortaMat Material /Game/MyContent/Models/Models/Casa/Casa_PortaMat.Casa_PortaMat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.12.03-20.31.47:954][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.12.03-20.31.47:954][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.03-20.31.48:004][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.12.03-20.31.48:027][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.03-20.31.48:027][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.185ms to complete.
+[2020.12.03-20.31.48:033][  0]LogFileHelpers: Loading map 'Casa' took 38.269
+[2020.12.03-20.31.49:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.03-20.31.49:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.03-20.31.49:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.03-20.31.49:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.03-20.31.49:321][  0]LogCollectionManager: Loaded 0 collections in 0.002186 seconds
+[2020.12.03-20.31.49:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Collections/' took 0.00s
+[2020.12.03-20.31.49:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/Developers/leoda/Collections/' took 0.00s
+[2020.12.03-20.31.49:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/Collections/' took 0.00s
+[2020.12.03-20.31.49:384][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.12.03-20.31.49:392][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2863 classes and 680 folders.
+[2020.12.03-20.31.49:470][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.03-20.31.52:992][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.03-20.31.53:077][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.12.03-20.31.53:564][  0]LogSlate: Took 0.071741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.03-20.31.53:632][  0]LogSlate: Took 0.066584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.03-20.31.53:786][  0]LogSlate: Took 0.047884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.03-20.31.54:488][  0]LogRenderer: Reallocating scene render targets to support 1148x624 Format 10 NumSamples 1 (Frame:1).
+[2020.12.03-20.31.54:923][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.03-20.31.54:923][  0]LogLoad: (Engine Initialization) Total time: 122.51 seconds
+[2020.12.03-20.31.54:923][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.03-20.31.55:158][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.03-20.31.56:381][ 10]LogSlate: Took 0.019692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.03-20.31.56:386][ 10]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/Menu.Menu
+[2020.12.03-20.31.56:666][ 10]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.12.03-20.31.57:756][ 10]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/SiteScreen.SiteScreen
+[2020.12.03-20.31.58:327][ 10]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/LoseScreen.LoseScreen
+[2020.12.03-20.31.58:668][ 10]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/ChoicesMenu.ChoicesMenu
+[2020.12.03-20.31.59:556][ 10]LogSlate: Took 0.041278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.03-20.32.02:363][ 43]LogAssetRegistry: Asset discovery search completed in 99.8283 seconds
+[2020.12.03-20.32.02:366][ 43]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2020.12.03-20.32.02:366][ 43]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2020.12.03-20.32.54:996][200]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={BC94FB69-4228-D6D6-14C2-74A61C3E7BCA}
+[2020.12.03-20.41.24:266][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.03-20.44.42:864][691]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-20.44.42:933][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.12.03-20.45.10:682][381]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.12.03-20.45.10:682][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Casa' took 0.040
+[2020.12.03-20.45.10:684][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Interfaces/UserInterface/LoseScreen] ([1] browsable assets)...
+[2020.12.03-20.45.10:684][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Interfaces/UserInterface/LoseScreen]
+[2020.12.03-20.45.11:011][381]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/LoseScreen_Auto14437952E4C2EDEFFDE146585828C937D.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Autosaves/Game/MyContent/Interfaces/UserInterface/LoseScreen_Auto1.uasset'
+[2020.12.03-20.45.11:012][381]LogFileHelpers: Auto-saving content packages took 0.329
+[2020.12.03-20.50.07:028][782]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.03-20.50.21:803][539]LogAssetEditorManager: Opening Asset editor for SoundMix /Game/MyContent/Audios/MasterMix.MasterMix
+[2020.12.03-20.51.12:276][574]LogAssetEditorManager: Opening Asset editor for SoundClass /Game/MyContent/Audios/MyMusic.MyMusic
+[2020.12.03-20.51.20:720][556]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/MasterVolume9A9829A94553AA87CA937487D3A18D95.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Audios/MasterVolume.uasset'
+[2020.12.03-20.52.02:286][539]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/MasterVolumeF39B85C3421EDECFE1401B9987D40C51.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Audios/MasterVolume.uasset'
+[2020.12.03-20.52.31:498][915]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-20.52.38:629][718]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-20.52.56:684][882]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-20.53.06:185][ 20]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-20.53.18:253][464]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-20.53.22:975][ 29]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-20.53.34:181][362]LogSlate: Took 0.063566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.03-20.54.40:615][311]BlueprintLog: New page: Compile ChoicesMenu
+[2020.12.03-20.54.40:676][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.12.03-20.55.07:386][503]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.12.03-20.55.07:386][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Casa' took 0.038
+[2020.12.03-20.55.07:388][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Audios/MyMusic] ([1] browsable assets)...
+[2020.12.03-20.55.07:388][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Audios/MyMusic]
+[2020.12.03-20.55.07:415][503]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/MyMusic_Auto2C7AB8FA14F102EA08DB0159F0B17C58D.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Autosaves/Game/MyContent/Audios/MyMusic_Auto2.uasset'
+[2020.12.03-20.55.07:435][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Interfaces/UserInterface/ChoicesMenu] ([1] browsable assets)...
+[2020.12.03-20.55.07:435][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Interfaces/UserInterface/ChoicesMenu]
+[2020.12.03-20.55.07:498][503]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/ChoicesMenu_Auto2F2B5D90E406EE9E8E832A4BCE9ACA2F2.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Autosaves/Game/MyContent/Interfaces/UserInterface/ChoicesMenu_Auto2.uasset'
+[2020.12.03-20.55.07:500][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Interfaces/UserInterface/LoseScreen] ([1] browsable assets)...
+[2020.12.03-20.55.07:500][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Interfaces/UserInterface/LoseScreen]
+[2020.12.03-20.55.07:540][503]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/LoseScreen_Auto23CB9DB7547C6228D45280BA7CB3A0843.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Autosaves/Game/MyContent/Interfaces/UserInterface/LoseScreen_Auto2.uasset'
+[2020.12.03-20.55.07:542][503]LogFileHelpers: Auto-saving content packages took 0.155
+[2020.12.03-20.57.30:841][674]BlueprintLog: New page: Compile ChoicesMenu
+[2020.12.03-20.57.30:894][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.12.03-20.57.34:284][ 70]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/ChoicesMenuA66CA99F4CDB298447BA1C997A1C9A75.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/ChoicesMenu.uasset'
+[2020.12.03-21.00.01:711][672]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-21.00.06:102][197]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-21.00.18:134][636]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-21.00.27:533][759]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-21.00.40:338][290]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-21.00.49:900][431]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-21.02.24:689][786]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.02.24:733][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.12.03-21.04.42:036][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.12.03-21.04.43:103][ 82]LogSlate: Window 'Save Content' being destroyed
+[2020.12.03-21.04.43:141][ 82]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/MyMusicD305CAEB4DBB76FF448D0CA7CA4E7286.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Audios/MyMusic.uasset'
+[2020.12.03-21.04.43:193][ 82]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/LoseScreenED18169148E9BB93E142D78B217250D1.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/LoseScreen.uasset'
+[2020.12.03-21.04.46:745][503]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.04.46:786][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.12.03-21.04.47:236][545]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/LoseScreen205D9D874CFB5978D6EF7DA6A841C59A.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/LoseScreen.uasset'
+[2020.12.03-21.04.49:448][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.12.03-21.12.24:813][290]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.12.24:855][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.12.03-21.15.13:926][556]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.15.13:971][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.12.03-21.15.17:944][ 24]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/LoseScreen137A9ABC41FD8751F3D7D69E5CD6019C.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/LoseScreen.uasset'
+[2020.12.03-21.17.15:615][134]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.17.15:659][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.12.03-21.17.42:809][351]LogSlate: Took 0.012881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.03-21.17.58:896][278]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.17.58:940][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.12.03-21.17.59:922][387]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/LoseScreenC5354A0C4A3E59AAEC8712AA7F983533.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/LoseScreen.uasset'
+[2020.12.03-21.18.19:146][661]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.18.19:187][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.12.03-21.18.47:748][ 65]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.18.47:794][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.12.03-21.19.25:456][561]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.19.25:501][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.12.03-21.20.54:630][215]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.20.54:674][215]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.12.03-21.21.37:144][301]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.03-21.22.12:549][539]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.22.12:592][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.12.03-21.22.15:736][905]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/LoseScreen0AFE3C5345DBB8A4351DC8B9A0293FB9.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/LoseScreen.uasset'
+[2020.12.03-21.22.17:415][103]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.22.17:456][103]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.25.56:579][304]BlueprintLog: New page: Compile SiteScreen
+[2020.12.03-21.25.56:628][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.12.03-21.25.57:589][401]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/SiteScreen00A85F7A4E60F1483E0496B34241C4AA.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/SiteScreen.uasset'
+[2020.12.03-21.25.58:492][499]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/SiteScreen12B51EBC44A1475A7845CFAE0A06049E.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/SiteScreen.uasset'
+[2020.12.03-21.26.00:100][687]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.26.00:141][687]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.28.17:214][ 94]BlueprintLog: New page: Compile Menu
+[2020.12.03-21.28.17:266][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.12.03-21.28.53:162][345]BlueprintLog: New page: Compile Menu
+[2020.12.03-21.28.53:208][345]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.12.03-21.29.00:306][189]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/Options.Options
+[2020.12.03-21.29.56:440][838]BlueprintLog: New page: Compile Menu
+[2020.12.03-21.29.56:495][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.12.03-21.30.49:960][238]BlueprintLog: New page: Compile Menu
+[2020.12.03-21.30.50:013][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.12.03-21.31.07:330][115]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.03-21.31.38:352][770]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.03-21.31.38:354][770]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.03-21.31.39:791][932]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.12.03-21.31.42:618][932]LogSlate: Window 'Save Content' being destroyed
+[2020.12.03-21.31.42:688][932]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Menu146C4EBA4C2D8E52AE616C974AC0D73D.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/Menu.uasset'
+[2020.12.03-21.33.26:176][294]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Menu897D33D14A1D2CD97134F0A3012CC0F9.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/Menu.uasset'
+[2020.12.03-21.33.27:915][497]Cmd: r.setres 1200x720
+[2020.12.03-21.33.27:915][497]r.SetRes = "1200x720"
+[2020.12.03-21.33.31:629][943]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.33.31:668][943]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.34.24:975][464]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2020.12.03-21.34.24:975][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Casa' took 0.047
+[2020.12.03-21.34.24:976][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Interfaces/UserInterface/ChoicesMenu] ([1] browsable assets)...
+[2020.12.03-21.34.24:976][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Interfaces/UserInterface/ChoicesMenu]
+[2020.12.03-21.34.25:036][464]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/ChoicesMenu_Auto3BDD75F934AE30F5D20A51B824AB86202.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Autosaves/Game/MyContent/Interfaces/UserInterface/ChoicesMenu_Auto3.uasset'
+[2020.12.03-21.34.25:038][464]LogFileHelpers: Auto-saving content packages took 0.062
+[2020.12.03-21.36.50:511][758]BlueprintLog: New page: Compile ChoicesMenu
+[2020.12.03-21.36.50:565][758]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.12.03-21.36.51:321][836]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/ChoicesMenuD9D6AED54F7749B3C45AFA940F3C32E5.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/ChoicesMenu.uasset'
+[2020.12.03-21.36.56:275][424]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.36.56:286][424]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.37.58:786][913]BlueprintLog: New page: Compile Options
+[2020.12.03-21.37.58:851][913]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.12.03-21.39.40:744][126]BlueprintLog: New page: Compile Options
+[2020.12.03-21.39.40:802][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.12.03-21.39.41:586][210]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/OptionsB962BA084ECA466138A179821BB19C54.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/Options.uasset'
+[2020.12.03-21.39.57:477][115]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.39.57:487][115]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.40.00:705][491]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/SiteScreen.SiteScreen
+[2020.12.03-21.40.12:056][791]BlueprintLog: New page: Compile SiteScreen
+[2020.12.03-21.40.12:122][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.12.03-21.40.13:011][884]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/SiteScreen595F9CE04A02CC9F2740FDA8B1A43335.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/SiteScreen.uasset'
+[2020.12.03-21.40.16:355][283]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.40.16:386][283]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.40.19:157][607]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/Menu.Menu
+[2020.12.03-21.40.19:494][607]Cmd: r.setres 1200x720
+[2020.12.03-21.40.19:495][607]r.SetRes = "1200x720"
+[2020.12.03-21.40.33:272][256]BlueprintLog: New page: Compile Menu
+[2020.12.03-21.40.33:335][256]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.12.03-21.40.38:180][823]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Menu4E479F5F45F8FC81228F6DAC570FCF09.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/Menu.uasset'
+[2020.12.03-21.40.39:546][984]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.40.39:550][984]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.40.43:339][430]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/LoseScreen.LoseScreen
+[2020.12.03-21.40.59:172][288]BlueprintLog: New page: Compile LoseScreen
+[2020.12.03-21.40.59:209][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.12.03-21.40.59:907][362]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/LoseScreen5C88D27A4EB5CABB65213B931019C2C7.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/LoseScreen.uasset'
+[2020.12.03-21.41.02:839][712]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.41.02:843][712]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.41.05:011][965]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/LoadingScreen.LoadingScreen
+[2020.12.03-21.41.21:837][939]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.41.21:867][939]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.41.23:501][128]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/InteractMessage.InteractMessage
+[2020.12.03-21.41.33:251][253]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay
+[2020.12.03-21.43.01:681][732]LogEditorTransaction: Undo Delete current selection
+[2020.12.03-21.43.04:040][  8]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.12.03-21.43.04:096][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.12.03-21.44.27:965][ 61]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.12.03-21.44.28:017][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.12.03-21.44.29:194][188]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/HeadsUpDisplayAA6E4F5B4DDCA7C38754E59F8E22C800.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/HeadsUpDisplay.uasset'
+[2020.12.03-21.46.26:755][258]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.12.03-21.46.26:811][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.12.03-21.46.28:525][451]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/HeadsUpDisplay2BD991294C9430F11D1883951CBF284D.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/HeadsUpDisplay.uasset'
+[2020.12.03-21.46.34:069][114]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.46.34:099][114]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.46.47:439][706]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.46.47:443][706]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.46.50:344][ 27]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/DialogueBox.DialogueBox
+[2020.12.03-21.48.16:105][255]BlueprintLog: New page: Compile DialogueBox
+[2020.12.03-21.48.16:325][255]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.12.03-21.48.41:914][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.12.03-21.48.41:914][493]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Casa' took 0.033
+[2020.12.03-21.48.41:915][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Interfaces/UserInterface/DialogueBox] ([1] browsable assets)...
+[2020.12.03-21.48.41:915][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Interfaces/UserInterface/DialogueBox]
+[2020.12.03-21.48.41:949][493]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/DialogueBox_Auto4FB201FC547A11736200C02A285AFB684.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Autosaves/Game/MyContent/Interfaces/UserInterface/DialogueBox_Auto4.uasset'
+[2020.12.03-21.48.41:950][493]LogFileHelpers: Auto-saving content packages took 0.036
+[2020.12.03-21.49.34:682][327]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/DialogueBoxE3C37AD441A1173BE8E3B98BB2788990.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Interfaces/UserInterface/DialogueBox.uasset'
+[2020.12.03-21.49.36:171][504]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.49.36:201][504]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.49.38:333][734]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/ChoicesMenu.ChoicesMenu
+[2020.12.03-21.49.49:586][ 32]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.49.49:597][ 32]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.50.20:379][715]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/EnemyNPC/Enemy.Enemy
+[2020.12.03-21.50.26:731][396]LogRenderer: Reallocating scene render targets to support 1148x708 Format 10 NumSamples 1 (Frame:1).
+[2020.12.03-21.50.31:279][870]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.50.32:602][ 19]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/EnemyNPC/EnemyAI.EnemyAI
+[2020.12.03-21.51.50:751][479]BlueprintLog: New page: Compile EnemyAI
+[2020.12.03-21.51.50:955][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.12.03-21.51.51:673][556]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EnemyAI0620FFDD4A866896DE29F487C9BC592E.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/EnemyNPC/EnemyAI.uasset'
+[2020.12.03-21.53.19:710][380]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/EnemyNPC/PatrolPath.PatrolPath
+[2020.12.03-21.53.28:834][433]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.54.56:074][891]BlueprintLog: New page: Compile EnemyAI
+[2020.12.03-21.54.56:280][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.12.03-21.54.56:848][952]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EnemyAI288D5AEE4C91FFDF7696E593F8213BB1.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/EnemyNPC/EnemyAI.uasset'
+[2020.12.03-21.55.06:414][ 97]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.03-21.55.06:414][ 97]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.55.12:848][769]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/FriendlyNPC/NPC.NPC
+[2020.12.03-21.56.34:535][523]BlueprintLog: New page: Compile NPC
+[2020.12.03-21.56.34:731][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.12.03-21.56.36:288][700]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/NPCEE1A988B4DD9254E1648CA84AA404C27.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/FriendlyNPC/NPC.uasset'
+[2020.12.03-21.56.49:278][944]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-21.56.51:397][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.12.03-21.56.52:976][153]LogSlate: Window 'Save Content' being destroyed
+[2020.12.03-21.56.53:020][153]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/NPC2CB2108246BFA7814D5AB7A9DD2F587B.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/FriendlyNPC/NPC.uasset'
+[2020.12.03-21.56.54:048][274]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/FriendlyNPC/NPC_AI.NPC_AI
+[2020.12.03-21.57.56:029][670]BlueprintLog: New page: Compile NPC_AI
+[2020.12.03-21.57.56:239][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.12.03-21.58.01:866][338]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/NPC_AI6E112DA84140E93188388982BFEB1358.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/FriendlyNPC/NPC_AI.uasset'
+[2020.12.03-21.58.31:418][868]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/MyContent/FriendlyNPC/DialogueTree/DialogueTree.DialogueTree
+[2020.12.03-21.58.37:610][580]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/FriendlyNPC/DialogueTree/ResponseListUI.ResponseListUI
+[2020.12.03-21.59.54:061][702]BlueprintLog: New page: Compile ResponseListUI
+[2020.12.03-21.59.54:108][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.12.03-21.59.54:761][770]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/ResponseListUID859942B4376BB555A1E9E857F98B4E1.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/FriendlyNPC/DialogueTree/ResponseListUI.uasset'
+[2020.12.03-22.00.01:865][617]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/FriendlyNPC/DialogueTree/ResponseUI.ResponseUI
+[2020.12.03-22.00.24:741][317]BlueprintLog: New page: Compile ResponseUI
+[2020.12.03-22.00.24:784][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.12.03-22.00.25:579][399]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/ResponseUI87EE68094B3E9558D32828B18CBC60EA.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/FriendlyNPC/DialogueTree/ResponseUI.uasset'
+[2020.12.03-22.01.23:226][309]BlueprintLog: New page: Compile ResponseUI
+[2020.12.03-22.01.23:266][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.12.03-22.01.28:041][868]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/ResponseUI6A29279E46045870356B42BC14FFD56F.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/FriendlyNPC/DialogueTree/ResponseUI.uasset'
+[2020.12.03-22.01.29:480][ 39]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-22.01.29:518][ 39]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-22.01.54:995][ 85]BlueprintLog: New page: Compile ResponseListUI
+[2020.12.03-22.01.55:039][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.12.03-22.01.55:688][156]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/ResponseListUI7A32AA44405814467212CFB539692C96.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/FriendlyNPC/DialogueTree/ResponseListUI.uasset'
+[2020.12.03-22.01.57:052][318]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-22.01.57:083][318]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-22.05.59:371][368]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/DialogueTree423A4E6045B6AE983704B29BAE728D02.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/FriendlyNPC/DialogueTree/DialogueTree.uasset'
+[2020.12.03-22.06.04:278][948]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-22.06.32:125][275]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/MyContent/EnemyNPC/EnemyTree/EnemyTree.EnemyTree
+[2020.12.03-22.11.53:404][793]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/EnemyTreeC4144E104742023975A1999D7F09D186.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/EnemyNPC/EnemyTree/EnemyTree.uasset'
+[2020.12.03-22.12.05:527][239]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/MyContent/EnemyNPC/EnemyTree/EnemyTree.EnemyTree
+[2020.12.03-22.19.49:605][ 85]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.03-22.24.04:025][330]BlueprintLog: New page: Compile TopDownCharacter
+[2020.12.03-22.24.04:253][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.12.03-22.24.05:967][518]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/TopDownCharacterBDFBFCD84BD6F7D5462B3E8990DA48EE.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.12.03-22.24.06:990][635]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-22.24.09:200][887]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.03-22.24.33:957][817]BlueprintLog: New page: Compile TopDownController
+[2020.12.03-22.24.34:158][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.12.03-22.24.34:949][906]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/TopDownController56FB4154465E918A88B63A8DA99DBFA2.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2020.12.03-22.24.35:952][ 24]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.12.03-22.24.37:356][184]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.03-22.25.04:978][433]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/TopDownGameMode6C5318C64CCCF96CF8897A8F5739D6B3.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2020.12.03-22.25.07:942][764]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.12.03-23.22.18:048][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.12.04-01.39.48:372][ 38]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MyContent/Maps/Casa.Casa:PersistentLevel.Casa
+[2020.12.04-01.40.13:924][ 69]BlueprintLog: New page: Compile Casa
+[2020.12.04-01.40.14:122][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.12.04-01.40.15:913][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.12.04-01.40.16:149][278]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Casa55AEF1DF40548253BBB2BD84DF87DDAC.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Casa.umap'
+[2020.12.04-01.40.16:212][278]LogFileHelpers: Saving map 'Casa' took 0.328
+[2020.12.04-01.40.17:183][392]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.12.04-01.42.26:049][233]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.04-01.42.26:262][233]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.12.04-01.42.52:287][331]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.04-01.42.52:489][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.12.04-01.48.32:685][702]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.04-01.48.32:886][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.12.04-01.48.33:748][790]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/TopDownGameModeA1BC045F4EB55D33B3B7CFB491355DA7.tmp' to '../../../../../../Users/leoda/Desktop/DaCertoPorra/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2020.12.04-01.48.35:609][  8]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.12.04-01.48.37:029][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.12.04-01.48.38:859][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.12.04-01.48.38:994][383]LogSlate: Window 'Tentativa4 - Unreal Editor' being destroyed
+[2020.12.04-01.48.39:108][384]Cmd: QUIT_EDITOR
+[2020.12.04-01.48.39:151][384]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.04-01.48.39:164][384]LogExit: Preparing to exit.
+[2020.12.04-01.48.39:917][384]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.12.04-01.48.39:918][384]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.12.04-01.48.39:919][384]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.12.04-01.48.39:919][384]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.04-01.48.39:919][384]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.04-01.48.39:919][384]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.04-01.48.39:919][384]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.04-01.48.39:919][384]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.04-01.48.39:919][384]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.04-01.48.39:919][384]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.04-01.48.39:919][384]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.04-01.48.39:931][384]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.04-01.48.39:932][384]LogExit: Editor shut down
+[2020.12.04-01.48.39:932][384]LogExit: Transaction tracking system shut down
+[2020.12.04-01.48.39:934][384]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.04-01.48.40:299][384]LogExit: Object subsystem successfully closed.
+[2020.12.04-01.48.40:318][384]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (674)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module SequencerWidgets (672)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.12.04-01.48.40:338][384]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.12.04-01.48.40:339][384]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.12.04-01.48.41:514][384]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.12.04-01.48.41:514][384]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.12.04-01.48.41:514][384]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.12.04-01.48.41:514][384]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.12.04-01.48.41:514][384]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.12.04-01.48.41:514][384]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.12.04-01.48.41:515][384]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.12.04-01.48.41:548][384]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.12.04-01.48.41:560][384]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.12.04-01.48.41:561][384]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.12.04-01.48.41:561][384]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.12.04-01.48.41:561][384]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.12.04-01.48.41:561][384]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.12.04-01.48.41:561][384]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.12.04-01.48.41:563][384]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.12.04-01.48.41:718][384]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.12.04-01.48.41:718][384]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.12.04-01.48.41:718][384]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.12.04-01.48.41:719][384]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.12.04-01.48.41:820][384]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.12.04-01.48.41:921][384]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.12.04-01.48.41:921][384]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.12.04-01.48.41:922][384]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.12.04-01.48.41:922][384]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.12.04-01.48.41:922][384]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.12.04-01.48.41:922][384]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.12.04-01.48.41:922][384]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.12.04-01.48.41:923][384]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.12.04-01.48.41:923][384]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.12.04-01.48.41:923][384]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.12.04-01.48.41:923][384]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.12.04-01.48.41:923][384]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.12.04-01.48.41:924][384]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.12.04-01.48.41:925][384]LogDerivedDataCache: Shutdown
+[2020.12.04-01.48.41:925][384]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.12.04-01.48.41:925][384]LogXGEController: Cleaning working directory: C:/Users/leoda/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.12.04-01.48.41:926][384]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.12.04-01.48.41:927][384]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.12.04-01.48.41:927][384]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.12.04-01.48.41:928][384]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.12.04-01.48.41:928][384]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.12.04-01.48.41:935][384]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.12.04-01.48.41:935][384]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.12.04-01.48.41:936][384]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.12.04-01.48.41:936][384]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.12.04-01.48.41:937][384]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.12.04-01.48.41:937][384]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.04-01.48.41:937][384]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA74185D1-484B-BFB2-4B0E-AF8AB55FCDD8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=4aa7f0d1433a26af5b83b2bc8a6e3e71%7C6ecf42121a5d42209fed87504fdd46e4%7C279ca8b7-9b47-4509-a31d-c076d62432a7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.12.04-01.48.41:972][384]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.12.04-01.48.41:973][384]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.12.04-01.48.41:973][384]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.12.04-01.48.41:974][384]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.04-01.48.41:975][384]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.04-01.48.41:975][384]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.04-01.48.41:975][384]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.04-01.48.41:976][384]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.04-01.48.41:976][384]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.04-01.48.41:976][384]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.04-01.48.41:976][384]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.04-01.48.41:977][384]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.04-01.48.41:977][384]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.04-01.48.41:977][384]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.04-01.48.41:977][384]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.04-01.48.41:977][384]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.04-01.48.41:977][384]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.04-01.48.41:977][384]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.04-01.48.41:977][384]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.04-01.48.41:977][384]LogD3D11RHI: Shutdown
+[2020.12.04-01.48.41:977][384]LogD3D11RHI: CleanupD3DDevice
+[2020.12.04-01.48.41:977][384]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.04-01.48.41:977][384]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.04-01.48.41:977][384]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.04-01.48.42:051][384]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.12.04-01.48.42:065][384]LogExit: Exiting.
+[2020.12.04-01.48.42:099][384]Log file closed, 12/03/20 22:48:42
