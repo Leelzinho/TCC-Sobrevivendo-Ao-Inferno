@@ -1,0 +1,976 @@
+﻿Log file open, 12/02/20 13:44:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tentativa4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.079447
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.02-16.44.57:866][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.02-16.44.57:866][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.02-16.44.57:866][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.02-16.44.57:868][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.02-16.44.57:869][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.02-16.44.57:870][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.02-16.44.57:870][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.02-16.44.57:870][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:870][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.02-16.44.57:870][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.02-16.44.57:870][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.02-16.44.57:870][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.02-16.44.57:873][  0]LogHAL: Display: Platform has ~ 12 GB [12751085568 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.02-16.44.57:873][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.02-16.44.57:873][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.02-16.44.57:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.02-16.44.57:874][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.12.02-16.44.57:875][  0]LogInit: Computer: DESKTOP-AM7GMFQ
+[2020.12.02-16.44.57:875][  0]LogInit: User: salles
+[2020.12.02-16.44.57:875][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.02-16.44.57:875][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.02-16.44.57:875][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.12.02-16.44.57:875][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.02-16.44.57:875][  0]LogMemory: Process Physical Memory: 102.44 MB used, 102.45 MB peak
+[2020.12.02-16.44.57:875][  0]LogMemory: Process Virtual Memory: 104.52 MB used, 104.52 MB peak
+[2020.12.02-16.44.57:875][  0]LogMemory: Physical Memory: 6903.36 MB used,  5257.02 MB free, 12160.38 MB total
+[2020.12.02-16.44.57:875][  0]LogMemory: Virtual Memory: 4674.27 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.12.02-16.44.57:886][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.02-16.44.57:909][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.12.02-16.44.57:909][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.12.02-16.44.58:117][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.02-16.44.58:151][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.02-16.44.58:151][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.02-16.44.58:383][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.02-16.44.58:383][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.02-16.44.58:450][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.12.02-16.44.58:450][  0]LogD3D11RHI:       128/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.12.02-16.44.58:452][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.02-16.44.58:452][  0]LogD3D11RHI:       0/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.02-16.44.58:452][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.02-16.44.58:461][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.02-16.44.58:461][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.02-16.44.58:461][  0]LogWindows: EnumDisplayDevices:
+[2020.12.02-16.44.58:461][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.12.02-16.44.58:462][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.12.02-16.44.58:462][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.12.02-16.44.58:463][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.12.02-16.44.58:463][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2020.12.02-16.44.58:463][  0]LogD3D11RHI:   Driver Version: 26.20.100.7528 (internal:26.20.100.7528, unified:26.20.100.7528)
+[2020.12.02-16.44.58:463][  0]LogD3D11RHI:      Driver Date: 11-13-2019
+[2020.12.02-16.44.58:463][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.12.02-16.44.58:542][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.12.02-16.44.58:542][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.02-16.44.58:548][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.12.02-16.44.58:892][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.12.02-16.44.58:904][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.12.02-16.44.58:916][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.12.02-16.44.58:928][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.12.02-16.44.58:944][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.12.02-16.44.58:953][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.12.02-16.44.58:969][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.02-16.44.58:977][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.12.02-16.44.58:981][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.02-16.44.59:024][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.12.02-16.44.59:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.12.02-16.44.59:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.02-16.44.59:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.02-16.44.59:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.02-16.44.59:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.02-16.44.59:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.12.02-16.44.59:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.12.02-16.44.59:026][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.12.02-16.44.59:048][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.12.02-16.44.59:048][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.12.02-16.44.59:064][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.12.02-16.44.59:064][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.12.02-16.44.59:074][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.12.02-16.44.59:081][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.02-16.44.59:089][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.12.02-16.44.59:099][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.12.02-16.44.59:124][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.12.02-16.44.59:124][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.12.02-16.44.59:124][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.02-16.44.59:134][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.02-16.44.59:181][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Intermediate/Shaders/WorkingDirectory/16488/).
+[2020.12.02-16.44.59:181][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/salles/AppData/Local/Temp/UnrealShaderWorkingDir/550F6F934FC6BCE03F6A8E80D428C19C/'.
+[2020.12.02-16.44.59:183][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.02-16.44.59:183][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.02-16.44.59:183][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.02-16.44.59:799][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.02-16.44.59:871][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.02-16.44.59:871][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.12.02-16.44.59:871][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.02-16.44.59:871][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.02-16.44.59:872][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.02-16.44.59:872][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.02-16.44.59:884][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.02-16.44.59:884][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.02-16.44.59:884][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.02-16.44.59:885][  0]LogDerivedDataCache: Using Local data cache path C:/Users/salles/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.02-16.44.59:885][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.02-16.44.59:885][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.02-16.44.59:908][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.02-16.44.59:910][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.02-16.44.59:911][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.02-16.44.59:980][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.12.02-16.45.00:266][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.02-16.45.00:421][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.02-16.45.00:421][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.02-16.45.00:421][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.02-16.45.00:421][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.02-16.45.00:421][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.02-16.45.00:433][  0]LogNetVersion: Tentativa4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 811232057)
+[2020.12.02-16.45.00:895][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.050367 seconds
+[2020.12.02-16.45.00:907][  0]LogUObjectArray: 43447 objects as part of root set at end of initial load.
+[2020.12.02-16.45.00:907][  0]LogUObjectAllocator: 7549240 out of 0 bytes used by permanent object pool.
+[2020.12.02-16.45.00:907][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.02-16.45.01:913][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.02-16.45.01:917][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.02-16.45.01:993][  0]SourceControl: Source control is disabled
+[2020.12.02-16.45.01:993][  0]SourceControl: Source control is disabled
+[2020.12.02-16.45.01:995][  0]SourceControl: Source control is disabled
+[2020.12.02-16.45.01:998][  0]SourceControl: Source control is disabled
+[2020.12.02-16.45.02:117][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.02-16.45.02:214][  0]LogOcInput: OculusInput pre-init called
+[2020.12.02-16.45.02:219][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.02-16.45.02:219][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.02-16.45.02:283][  0]LogEngine: Initializing Engine...
+[2020.12.02-16.45.02:284][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.02-16.45.02:285][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.02-16.45.02:521][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.02-16.45.02:538][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.02-16.45.02:588][  0]LogInit: XAudio2 using 'Alto-falantes (3- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.12.02-16.45.02:608][  0]LogInit: FAudioDevice initialized.
+[2020.12.02-16.45.02:608][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.02-16.45.02:691][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.02-16.45.02:697][  0]LogInit: Texture streaming: Enabled
+[2020.12.02-16.45.02:713][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.02-16.45.02:713][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.02-16.45.02:715][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.02-16.45.02:798][  0]LogInit: Transaction tracking system initialized
+[2020.12.02-16.45.02:822][  0]BlueprintLog: New page: Editor Load
+[2020.12.02-16.45.02:898][  0]LocalizationService: Localization service is disabled
+[2020.12.02-16.45.03:318][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.02-16.45.03:319][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.02-16.45.03:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/' took 0.03s
+[2020.12.02-16.45.03:544][  0]SourceControl: Source control is disabled
+[2020.12.02-16.45.03:544][  0]Cmd: MAP LOAD FILE="C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Casa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.02-16.45.03:546][  0]LightingResults: New page: Lighting Build
+[2020.12.02-16.45.03:548][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.02-16.45.03:549][  0]MapCheck: New page: Map Check
+[2020.12.02-16.45.03:549][  0]LightingResults: New page: Lighting Build
+[2020.12.02-16.45.03:574][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.12.02-16.45.04:801][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2020.12.02-16.45.04:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.12.02-16.45.04:801][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.12.02-16.45.04:801][  0]LogMaterial: Display: Missing cached shader map for material Cozinha_Armario_c_PiaMat, compiling. 
+[2020.12.02-16.45.04:938][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.12.02-16.45.04:938][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.12.02-16.45.04:938][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.12.02-16.45.04:938][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.02-16.45.04:938][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3
+[2020.12.02-16.45.04:938][  0]LogStaticMesh: Building static mesh Cozinha_Armario_C_Pia...
+[2020.12.02-16.45.05:051][  0]LogStaticMesh: Built static mesh [0.11s] /Game/MyContent/Models/Models/Casa/Cozinha/Armario_c_Pia/Cozinha_Armario_C_Pia.Cozinha_Armario_C_Pia
+[2020.12.02-16.45.05:173][  0]LogStaticMesh: Building static mesh Casa_Porta...
+[2020.12.02-16.45.05:175][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Casa/Casa_Porta.Casa_Porta
+[2020.12.02-16.45.05:182][  0]LogMaterial: Display: Missing cached shader map for material Cozinha_Armario_ParedeMat, compiling. 
+[2020.12.02-16.45.05:222][  0]LogStaticMesh: Building static mesh Cozinha_Armario_Parede...
+[2020.12.02-16.45.05:235][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Cozinha/Armario_parede/Cozinha_Armario_Parede.Cozinha_Armario_Parede
+[2020.12.02-16.45.05:242][  0]LogMaterial: Display: Missing cached shader map for material Banheiro_SanitarioMat, compiling. 
+[2020.12.02-16.45.05:265][  0]LogStaticMesh: Building static mesh Banheiro_Sanitario...
+[2020.12.02-16.45.05:275][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Banheiro/Sanitario/Banheiro_Sanitario.Banheiro_Sanitario
+[2020.12.02-16.45.05:277][  0]LogStaticMesh: Building static mesh Banheiro_Janela...
+[2020.12.02-16.45.05:287][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Banheiro/Janela/Banheiro_Janela.Banheiro_Janela
+[2020.12.02-16.45.05:290][  0]LogStaticMesh: Building static mesh Banheiro_Chuveiro...
+[2020.12.02-16.45.05:304][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Models/Casa/Banheiro/Cuveiro/Banheiro_Chuveiro.Banheiro_Chuveiro
+[2020.12.02-16.45.05:308][  0]LogStaticMesh: Building static mesh Banheiro_Espelho...
+[2020.12.02-16.45.05:312][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Casa/Banheiro/Espelho/Banheiro_Espelho.Banheiro_Espelho
+[2020.12.02-16.45.05:317][  0]LogMaterial: Display: Missing cached shader map for material Banheiro_EspelhoMat, compiling. 
+[2020.12.02-16.45.05:392][  0]LogStaticMesh: Building static mesh Banheiro_Box...
+[2020.12.02-16.45.05:406][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Banheiro/Box/Banheiro_Box.Banheiro_Box
+[2020.12.02-16.45.05:559][  0]LogMaterial: Display: Missing cached shader map for material Banheiro_ChuveiroMat, compiling. 
+[2020.12.02-16.45.05:606][  0]LogStaticMesh: Building static mesh Banheiro_Pia...
+[2020.12.02-16.45.05:629][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Models/Casa/Banheiro/Pia/Banheiro_Pia.Banheiro_Pia
+[2020.12.02-16.45.05:646][  0]LogMaterial: Display: Missing cached shader map for material Banheiro_JanelaMat, compiling. 
+[2020.12.02-16.45.05:688][  0]LogStaticMesh: Building static mesh Casa_Base...
+[2020.12.02-16.45.07:018][  0]LogStaticMesh: Built static mesh [1.33s] /Game/MyContent/Models/Models/Casa/Casa_Base/Casa_Base.Casa_Base
+[2020.12.02-16.45.07:026][  0]LogMaterial: Display: Missing cached shader map for material Sala_Sofa_C_Tres, compiling. 
+[2020.12.02-16.45.07:055][  0]LogStaticMesh: Building static mesh Sala_Sofa_C_Tres_Sala_Sofa_C_Tres...
+[2020.12.02-16.45.07:086][  0]LogStaticMesh: Built static mesh [0.03s] /Game/MyContent/Models/Models/Casa/Sala/Sofa_C_Tres/Sala_Sofa_C_Tres_Sala_Sofa_C_Tres.Sala_Sofa_C_Tres_Sala_Sofa_C_Tres
+[2020.12.02-16.45.07:098][  0]LogMaterial: Display: Missing cached shader map for material Sala_Porta_VidroMat, compiling. 
+[2020.12.02-16.45.07:155][  0]LogStaticMesh: Building static mesh Sala_Rack...
+[2020.12.02-16.45.07:164][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Sala/Rack/Sala_Rack.Sala_Rack
+[2020.12.02-16.45.07:167][  0]LogStaticMesh: Building static mesh Sala_Porta_Vidro...
+[2020.12.02-16.45.07:171][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Casa/Sala/Porta_de_Vidro/Sala_Porta_Vidro.Sala_Porta_Vidro
+[2020.12.02-16.45.07:179][  0]LogMaterial: Display: Missing cached shader map for material Sala_Mesa_de_CentroMat, compiling. 
+[2020.12.02-16.45.07:209][  0]LogStaticMesh: Building static mesh Sala_Mesa_de_Centro...
+[2020.12.02-16.45.07:218][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Sala/Mesa_de_Centro/Sala_Mesa_de_Centro.Sala_Mesa_de_Centro
+[2020.12.02-16.45.07:248][  0]LogStaticMesh: Building static mesh Sala_Mesa...
+[2020.12.02-16.45.07:251][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Casa/Sala/Mesa/Sala_Mesa.Sala_Mesa
+[2020.12.02-16.45.07:283][  0]LogStaticMesh: Building static mesh Sala_Cadeira...
+[2020.12.02-16.45.07:292][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Sala/Cadeira/Sala_Cadeira.Sala_Cadeira
+[2020.12.02-16.45.07:302][  0]LogMaterial: Display: Missing cached shader map for material Quarto_Mesa_ComputadorMat, compiling. 
+[2020.12.02-16.45.07:332][  0]LogStaticMesh: Building static mesh Quarto_Mesa_Computador...
+[2020.12.02-16.45.07:336][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Quarto/Mesa_Computador/Quarto_Mesa_Computador.Quarto_Mesa_Computador
+[2020.12.02-16.45.07:338][  0]LogStaticMesh: Building static mesh Quarto_Janela_Quarto_Janela...
+[2020.12.02-16.45.07:345][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Quarto/Janela/Quarto_Janela_Quarto_Janela.Quarto_Janela_Quarto_Janela
+[2020.12.02-16.45.07:347][  0]LogStaticMesh: Building static mesh Quarto_Janela_Janela_Vidro...
+[2020.12.02-16.45.07:349][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Casa/Quarto/Janela/Quarto_Janela_Janela_Vidro.Quarto_Janela_Janela_Vidro
+[2020.12.02-16.45.07:351][  0]LogStaticMesh: Building static mesh Quarto_Janela_Janela_Alum_M...
+[2020.12.02-16.45.07:360][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Quarto/Janela/Quarto_Janela_Janela_Alum_M.Quarto_Janela_Janela_Alum_M
+[2020.12.02-16.45.07:387][  0]LogStaticMesh: Building static mesh Quarto_Janela_Janela_Alum_F...
+[2020.12.02-16.45.07:399][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Quarto/Janela/Quarto_Janela_Janela_Alum_F.Quarto_Janela_Janela_Alum_F
+[2020.12.02-16.45.07:414][  0]LogMaterial: Display: Missing cached shader map for material Quarto_Criado_MudoMat, compiling. 
+[2020.12.02-16.45.07:440][  0]LogStaticMesh: Building static mesh Quarto_Criado_Mudo...
+[2020.12.02-16.45.07:447][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Quarto/Criado_Mudo/Quarto_Criado_Mudo.Quarto_Criado_Mudo
+[2020.12.02-16.45.07:455][  0]LogMaterial: Display: Missing cached shader map for material Quarto_Cama_SolteiroMat, compiling. 
+[2020.12.02-16.45.07:482][  0]LogStaticMesh: Building static mesh Quarto_Cama_Solteiro...
+[2020.12.02-16.45.07:501][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Models/Casa/Quarto/Cama_Solteiro/Quarto_Cama_Solteiro.Quarto_Cama_Solteiro
+[2020.12.02-16.45.07:510][  0]LogMaterial: Display: Missing cached shader map for material Quarto_Casal_CamaMat, compiling. 
+[2020.12.02-16.45.07:544][  0]LogStaticMesh: Building static mesh Quarto_Casal_Cama...
+[2020.12.02-16.45.07:562][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Models/Casa/Quarto/Cama_Casal/Quarto_Casal_Cama.Quarto_Casal_Cama
+[2020.12.02-16.45.07:572][  0]LogMaterial: Display: Missing cached shader map for material Quarto_Solteiro_S_ArmarioMat, compiling. 
+[2020.12.02-16.45.07:603][  0]LogStaticMesh: Building static mesh Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio...
+[2020.12.02-16.45.07:605][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Casa/Quarto/Armario_S/Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio.Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio
+[2020.12.02-16.45.07:611][  0]LogMaterial: Display: Missing cached shader map for material Quarto_Solteiro_P_ArmarioMat, compiling. 
+[2020.12.02-16.45.07:637][  0]LogStaticMesh: Building static mesh Quarto_Solteiro_P_Armario_Medio_Quarto_Solteiro_P_Armario_Medio...
+[2020.12.02-16.45.07:639][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Casa/Quarto/Armario_P/Quarto_Solteiro_P_Armario_Medio_Quarto_Solteiro_P_Armario_Medio.Quarto_Solteiro_P_Armario_Medio_Quarto_Solteiro_P_Armario_Medio
+[2020.12.02-16.45.07:647][  0]LogMaterial: Display: Missing cached shader map for material Quarto_Casal_Armario_GrandeMat, compiling. 
+[2020.12.02-16.45.07:676][  0]LogStaticMesh: Building static mesh Quarto_Casal_Armario_Grande...
+[2020.12.02-16.45.07:678][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Casa/Quarto/Armario_Grande/Quarto_Casal_Armario_Grande.Quarto_Casal_Armario_Grande
+[2020.12.02-16.45.07:685][  0]LogMaterial: Display: Missing cached shader map for material Lavanderia_VaralMat, compiling. 
+[2020.12.02-16.45.07:713][  0]LogStaticMesh: Building static mesh Lavanderia_Varal...
+[2020.12.02-16.45.07:735][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Models/Casa/Lavanderia/Varal/Lavanderia_Varal.Lavanderia_Varal
+[2020.12.02-16.45.07:747][  0]LogMaterial: Display: Missing cached shader map for material Lavanderia_TanqueMat, compiling. 
+[2020.12.02-16.45.07:780][  0]LogStaticMesh: Building static mesh Lavanderia_Tanque...
+[2020.12.02-16.45.07:785][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Lavanderia/Tanque/Lavanderia_Tanque.Lavanderia_Tanque
+[2020.12.02-16.45.07:792][  0]LogMaterial: Display: Missing cached shader map for material Lavanderia_Maquina_de_LavarMat, compiling. 
+[2020.12.02-16.45.07:824][  0]LogStaticMesh: Building static mesh Lavanderia_Maquina_de_Lavar...
+[2020.12.02-16.45.07:843][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Models/Casa/Lavanderia/Maquina_de_Lavar/Lavanderia_Maquina_de_Lavar.Lavanderia_Maquina_de_Lavar
+[2020.12.02-16.45.07:852][  0]LogMaterial: Display: Missing cached shader map for material Lavanderia_JanelaMat, compiling. 
+[2020.12.02-16.45.07:880][  0]LogStaticMesh: Building static mesh Lavanderia_Janela...
+[2020.12.02-16.45.07:891][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Lavanderia/Janela/Lavanderia_Janela.Lavanderia_Janela
+[2020.12.02-16.45.07:900][  0]LogMaterial: Display: Missing cached shader map for material Cozinha_MicroondasMat, compiling. 
+[2020.12.02-16.45.07:929][  0]LogStaticMesh: Building static mesh Cozinha_Microondas...
+[2020.12.02-16.45.07:937][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Cozinha/Microondas/Cozinha_Microondas.Cozinha_Microondas
+[2020.12.02-16.45.07:945][  0]LogMaterial: Display: Missing cached shader map for material Cozinha_GeladeiraMat, compiling. 
+[2020.12.02-16.45.07:971][  0]LogStaticMesh: Building static mesh Cozinha_Geladeira...
+[2020.12.02-16.45.07:985][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Casa/Cozinha/Geladeira/Cozinha_Geladeira.Cozinha_Geladeira
+[2020.12.02-16.45.07:995][  0]LogMaterial: Display: Missing cached shader map for material Cozinha_Fogao_c_BocasMat, compiling. 
+[2020.12.02-16.45.08:023][  0]LogStaticMesh: Building static mesh Cozinha_Fogao_c_Bocas...
+[2020.12.02-16.45.08:228][  0]LogStaticMesh: Built static mesh [0.21s] /Game/MyContent/Models/Models/Casa/Cozinha/Fogao/Cozinha_Fogao_c_Bocas.Cozinha_Fogao_c_Bocas
+[2020.12.02-16.45.08:271][  0]LogMaterial: Display: Missing cached shader map for material Banheiro_PiaMat, compiling. 
+[2020.12.02-16.45.08:671][  0]LogAIModule: Creating AISystem for world Casa
+[2020.12.02-16.45.08:681][  0]LogMaterial: Display: Material /Game/MyContent/Models/Models/Casa/Casa_PortaMat.Casa_PortaMat needed to have new flag set bUsedWithStaticLighting !
+[2020.12.02-16.45.08:771][  0]LogMaterial: Display: Missing cached shader map for material Casa_PortaMat, compiling. 
+[2020.12.02-16.45.08:800][  0]MapCheck: Warning: Casa_PortaMat Material /Game/MyContent/Models/Models/Casa/Casa_PortaMat.Casa_PortaMat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.02-16.45.08:805][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.02-16.45.08:859][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.12.02-16.45.08:859][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.02-16.45.08:859][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.205ms to complete.
+[2020.12.02-16.45.08:871][  0]LogFileHelpers: Loading map 'Casa' took 5.327
+[2020.12.02-16.45.09:446][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 744
+[2020.12.02-16.45.09:447][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.02-16.45.09:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.02-16.45.09:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.02-16.45.09:498][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.02-16.45.09:578][  0]LogCollectionManager: Loaded 0 collections in 0.002054 seconds
+[2020.12.02-16.45.09:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Collections/' took 0.00s
+[2020.12.02-16.45.09:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/Developers/salles/Collections/' took 0.00s
+[2020.12.02-16.45.09:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/Collections/' took 0.00s
+[2020.12.02-16.45.09:698][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000008 seconds
+[2020.12.02-16.45.09:721][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2863 classes and 680 folders.
+[2020.12.02-16.45.09:791][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.02-16.45.11:560][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 734
+[2020.12.02-16.45.11:560][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.12.02-16.45.11:625][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.12.02-16.45.12:034][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.02-16.45.12:053][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.02-16.45.12:091][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 724
+[2020.12.02-16.45.12:091][  0]LogSlate: Took 0.022797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.02-16.45.12:450][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 714
+[2020.12.02-16.45.12:451][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 704
+[2020.12.02-16.45.12:451][  0]LogRenderer: Reallocating scene render targets to support 1008x572 Format 9 NumSamples 1 (Frame:1).
+[2020.12.02-16.45.12:894][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.02-16.45.12:894][  0]LogLoad: (Engine Initialization) Total time: 16.57 seconds
+[2020.12.02-16.45.12:894][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.02-16.45.13:014][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.12.02-16.45.13:194][  0]LogSlate: Took 0.024546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.02-16.45.14:207][ 42]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.02-16.45.14:218][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.12.02-16.45.14:223][ 42]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/Menu.Menu
+[2020.12.02-16.45.14:915][ 42]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.12.02-16.45.17:574][ 42]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 694
+[2020.12.02-16.45.17:575][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 684
+[2020.12.02-16.45.17:575][ 42]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 674
+[2020.12.02-16.45.17:730][ 42]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/SiteScreen.SiteScreen
+[2020.12.02-16.45.18:367][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 664
+[2020.12.02-16.45.18:509][ 42]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/LoseScreen.LoseScreen
+[2020.12.02-16.45.19:107][ 42]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/ChoicesMenu.ChoicesMenu
+[2020.12.02-16.45.19:695][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 654
+[2020.12.02-16.45.20:587][ 42]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 644
+[2020.12.02-16.45.20:587][ 42]LogSlate: Took 0.014498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.02-16.45.22:320][125]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 634
+[2020.12.02-16.45.24:097][196]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 624
+[2020.12.02-16.45.25:390][247]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 614
+[2020.12.02-16.45.31:707][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 604
+[2020.12.02-16.45.35:180][627]LogAssetRegistry: Asset discovery search completed in 35.2020 seconds
+[2020.12.02-16.45.35:200][627]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000020 seconds (found 0 objects)
+[2020.12.02-16.45.35:200][627]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000223 seconds (updated 0 objects)
+[2020.12.02-16.45.35:356][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 594
+[2020.12.02-16.45.38:113][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.02-16.45.40:081][813]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 584
+[2020.12.02-16.45.40:799][841]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 574
+[2020.12.02-16.45.42:354][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.02-16.45.45:696][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 564
+[2020.12.02-16.45.48:137][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 554
+[2020.12.02-16.45.53:180][341]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 544
+[2020.12.02-16.45.57:481][522]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 534
+[2020.12.02-16.45.58:154][550]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 524
+[2020.12.02-16.46.01:614][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 514
+[2020.12.02-16.46.09:845][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 504
+[2020.12.02-16.46.10:717][ 69]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 494
+[2020.12.02-16.46.10:926][ 77]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 484
+[2020.12.02-16.46.12:945][157]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={E5A41105-4993-4F0A-FE41-7B89CDF268C8}
+[2020.12.02-16.46.15:566][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.02-16.46.19:200][415]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 474
+[2020.12.02-16.46.22:479][566]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 464
+[2020.12.02-16.46.22:700][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 454
+[2020.12.02-16.46.23:962][611]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X256)
+[2020.12.02-16.46.23:963][611]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.12.02-16.46.23:963][611]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.12.02-16.46.23:963][611]LogStaticMesh: Building static mesh Trem_Passageiro_Portas_trem_passag...
+[2020.12.02-16.46.24:095][611]LogStaticMesh: Built static mesh [0.13s] /Game/MyContent/Models/Models/Train/Trem_Passageiro/Trem_Passageiro_Portas_trem_passag.Trem_Passageiro_Portas_trem_passag
+[2020.12.02-16.46.24:207][611]LogStaticMesh: Building static mesh Trem_Passageiro_Trem_passag_obj...
+[2020.12.02-16.46.24:408][611]LogStaticMesh: Built static mesh [0.20s] /Game/MyContent/Models/Models/Train/Trem_Passageiro/Trem_Passageiro_Trem_passag_obj.Trem_Passageiro_Trem_passag_obj
+[2020.12.02-16.46.24:452][611]LogStaticMesh: Building static mesh Escada_Rolante_Simples_CP...
+[2020.12.02-16.46.24:488][611]LogStaticMesh: Built static mesh [0.04s] /Game/MyContent/Models/Models/Estacoes/Escada_Rolante_Simples/Escada_Rolante_Simples_CP.Escada_Rolante_Simples_CP
+[2020.12.02-16.46.24:495][611]LogMaterial: Display: Missing cached shader map for material Cadeira_CCNMat, compiling. 
+[2020.12.02-16.46.24:584][611]LogStaticMesh: Building static mesh Trem_c_Cabine_Trem_c_Cabine_obj...
+[2020.12.02-16.46.24:676][611]LogStaticMesh: Built static mesh [0.09s] /Game/MyContent/Models/Models/Train/Trem_C_Cabine/Trem_c_Cabine_Trem_c_Cabine_obj.Trem_c_Cabine_Trem_c_Cabine_obj
+[2020.12.02-16.46.24:719][611]LogStaticMesh: Building static mesh Escada_S...
+[2020.12.02-16.46.24:726][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_S/Escada_S.Escada_S
+[2020.12.02-16.46.24:728][611]LogStaticMesh: Building static mesh Alt_IP_Bilheteria...
+[2020.12.02-16.46.24:734][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Bilheteria/Alt_IP_Bilheteria.Alt_IP_Bilheteria
+[2020.12.02-16.46.24:764][611]LogStaticMesh: Building static mesh Trem_c_Cabine_Cadeiras_d_obj...
+[2020.12.02-16.46.25:006][611]LogStaticMesh: Built static mesh [0.24s] /Game/MyContent/Models/Models/Train/Trem_C_Cabine/Trem_c_Cabine_Cadeiras_d_obj.Trem_c_Cabine_Cadeiras_d_obj
+[2020.12.02-16.46.25:046][611]LogStaticMesh: Building static mesh Alt_IP_CP...
+[2020.12.02-16.46.25:054][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Alt_IP_CP/Alt_IP_CP.Alt_IP_CP
+[2020.12.02-16.46.25:076][611]LogStaticMesh: Building static mesh Alt_IP_Plat_Sup...
+[2020.12.02-16.46.25:088][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Alt_IP_Plat_Sup.Alt_IP_Plat_Sup
+[2020.12.02-16.46.25:136][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 475
+[2020.12.02-16.46.25:136][611]LogStaticMesh: Building static mesh Alt_IP_Ele...
+[2020.12.02-16.46.25:142][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Alt_IP_Ele.Alt_IP_Ele
+[2020.12.02-16.46.25:191][611]LogStaticMesh: Building static mesh Catraca_Catraca_Base...
+[2020.12.02-16.46.25:205][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/TicketGate/Catraca_Catraca_Base.Catraca_Catraca_Base
+[2020.12.02-16.46.25:208][611]LogStaticMesh: Building static mesh Catraca_Catraca_Vidro_Direito...
+[2020.12.02-16.46.25:209][611]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/TicketGate/Catraca_Catraca_Vidro_Direito.Catraca_Catraca_Vidro_Direito
+[2020.12.02-16.46.25:214][611]LogStaticMesh: Building static mesh Catraca_Catraca_Vidro_Esquerdo...
+[2020.12.02-16.46.25:215][611]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/TicketGate/Catraca_Catraca_Vidro_Esquerdo.Catraca_Catraca_Vidro_Esquerdo
+[2020.12.02-16.46.25:233][611]LogStaticMesh: Building static mesh Bilheteria_CQ...
+[2020.12.02-16.46.25:256][611]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Models/Tikets/Bilheteria_CQ.Bilheteria_CQ
+[2020.12.02-16.46.25:260][611]LogStaticMesh: Building static mesh Cadeira_CCN...
+[2020.12.02-16.46.25:354][611]LogStaticMesh: Built static mesh [0.09s] /Game/MyContent/Models/Models/Cadeiras/Cadeiras_C_Cinco/Cadeira_CCN.Cadeira_CCN
+[2020.12.02-16.46.25:369][611]LogStaticMesh: Building static mesh Lixeira_rec_Lixeira_cinco_obj...
+[2020.12.02-16.46.25:372][611]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Trash/Lixeira_rec_Lixeira_cinco_obj.Lixeira_rec_Lixeira_cinco_obj
+[2020.12.02-16.46.25:375][611]LogStaticMesh: Building static mesh Lixeira_rec_Lixeira_dois_obj...
+[2020.12.02-16.46.25:379][611]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Trash/Lixeira_rec_Lixeira_dois_obj.Lixeira_rec_Lixeira_dois_obj
+[2020.12.02-16.46.25:380][611]LogStaticMesh: Building static mesh Lixeira_rec_Lixeira_quatro_obj...
+[2020.12.02-16.46.25:384][611]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Trash/Lixeira_rec_Lixeira_quatro_obj.Lixeira_rec_Lixeira_quatro_obj
+[2020.12.02-16.46.25:387][611]LogStaticMesh: Building static mesh Lixeira_rec_Lixeira_tres_obj...
+[2020.12.02-16.46.25:391][611]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Trash/Lixeira_rec_Lixeira_tres_obj.Lixeira_rec_Lixeira_tres_obj
+[2020.12.02-16.46.25:393][611]LogStaticMesh: Building static mesh Lixeira_rec_Lixeira_um_obj...
+[2020.12.02-16.46.25:396][611]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Trash/Lixeira_rec_Lixeira_um_obj.Lixeira_rec_Lixeira_um_obj
+[2020.12.02-16.46.25:398][611]LogStaticMesh: Building static mesh Lixeira_rec_Suporte...
+[2020.12.02-16.46.25:403][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Trash/Lixeira_rec_Suporte.Lixeira_rec_Suporte
+[2020.12.02-16.46.25:406][611]LogStaticMesh: Building static mesh Parede_Vidro...
+[2020.12.02-16.46.25:412][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/TicketGate/Parede_de_Vidro/Parede_Vidro.Parede_Vidro
+[2020.12.02-16.46.25:415][611]LogStaticMesh: Building static mesh Higienopolis_Plat_Sup...
+[2020.12.02-16.46.28:865][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 465
+[2020.12.02-16.46.28:865][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 455
+[2020.12.02-16.46.28:865][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 445
+[2020.12.02-16.46.28:865][611]LogStaticMesh: Built static mesh [3.45s] /Game/MyContent/Models/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Superior/Higienopolis_Plat_Sup.Higienopolis_Plat_Sup
+[2020.12.02-16.46.29:011][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 435
+[2020.12.02-16.46.29:011][611]LogStaticMesh: Building static mesh Escada_DE...
+[2020.12.02-16.46.29:018][611]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Models/Estacoes/LinhaAmarela/Mackenzie/Plataforma_Higienopolis_Escada_DE/Escada_DE.Escada_DE
+[2020.12.02-16.46.29:020][611]LogStaticMesh: Building static mesh Trem_c_Cabine_Braco_d_obj...
+[2020.12.02-16.46.29:365][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 425
+[2020.12.02-16.46.29:365][611]LogStaticMesh: Built static mesh [0.35s] /Game/MyContent/Models/Models/Train/Trem_C_Cabine/Trem_c_Cabine_Braco_d_obj.Trem_c_Cabine_Braco_d_obj
+[2020.12.02-16.46.29:404][611]LogStaticMesh: Building static mesh Trem_c_Cabine_Portas_trem_passag...
+[2020.12.02-16.46.29:492][611]LogStaticMesh: Built static mesh [0.09s] /Game/MyContent/Models/Models/Train/Trem_C_Cabine/Trem_c_Cabine_Portas_trem_passag.Trem_c_Cabine_Portas_trem_passag
+[2020.12.02-16.46.29:510][611]LogMaterial: Display: Missing cached shader map for material Plat_SupMat, compiling. 
+[2020.12.02-16.46.29:535][611]LogMaterial: Display: Missing cached shader map for material Higie_Plat_Sup_VidMat, compiling. 
+[2020.12.02-16.46.29:789][611]LogMaterial: Display: Missing cached shader map for material Escada_DEMat, compiling. 
+[2020.12.02-16.46.29:886][611]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.02-16.46.32:612][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 508
+[2020.12.02-16.46.32:612][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 498
+[2020.12.02-16.46.32:612][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 488
+[2020.12.02-16.46.32:612][611]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.726 s
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: 
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: Ensure condition failed: !SearchArray[*IndexPtr].Blueprint.IsValid() || SearchArray[*IndexPtr].Blueprint == BlueprintObject [File:D:/Build/++UE4/Sync/Engine/Source/Editor/Kismet/Private/FindInBlueprintManager.cpp] [Line: 1736]
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: Blueprint in database has path /Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga and is being stomped by /Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: Stack: 
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7890e998 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7853e54a UE4Editor-Kismet.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7850380e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb5a79a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb45c87 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb6a063 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb68fba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb7bc10 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb8f010 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb8e78e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc691b62ee UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc69173f69 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc691be94f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc69171b9a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc6916e410 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc691c8870 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc691becc1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.46.32:612][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7abc47fa UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7ac4968e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7ac344a9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffc7ac29432 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffcc02e4daf UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffcc02d26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffcc02e7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffcc02cedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffce8cee858 USER32.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffce8cee299 USER32.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffcc02e88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e66980 UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e7a91c UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e7a9fa UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e8b92c UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e8e60e UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffce9a77034 KERNEL32.DLL!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: [Callstack] 0x00007ffcea7fcec1 ntdll.dll!UnknownFunction []
+[2020.12.02-16.46.32:613][611]LogOutputDevice: Error: 
+[2020.12.02-16.46.32:617][611]LogStats:                SubmitErrorReport -  0.000 s
+[2020.12.02-16.46.36:780][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 478
+[2020.12.02-16.46.36:964][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 468
+[2020.12.02-16.46.36:964][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 458
+[2020.12.02-16.46.36:965][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 448
+[2020.12.02-16.46.36:965][611]LogStats:                    SendNewReport -  4.348 s
+[2020.12.02-16.46.36:965][611]LogStats:             FDebug::EnsureFailed -  7.089 s
+[2020.12.02-16.46.36:965][611]LogAIModule: Creating AISystem for world EstacaoAltoIpiranga
+[2020.12.02-16.46.37:043][611]LogAssetEditorManager: Opening Asset editor for World /Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga
+[2020.12.02-16.46.37:462][611]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2020.12.02-16.46.37:476][611]Cmd: MAP LOAD FILE="C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.02-16.46.37:477][611]LightingResults: New page: Lighting Build
+[2020.12.02-16.46.37:478][611]LoadErrors: New page: Loading map: EstacaoAltoIpiranga.umap
+[2020.12.02-16.46.37:499][611]LogWorld: UWorld::CleanupWorld for Casa, bSessionEnded=true, bCleanupResources=true
+[2020.12.02-16.46.37:504][611]MapCheck: New page: Map Check
+[2020.12.02-16.46.37:504][611]LightingResults: New page: Lighting Build
+[2020.12.02-16.46.37:563][611]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2020.12.02-16.46.37:696][611]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.02-16.46.37:755][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.12.02-16.46.37:836][611]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.02-16.46.37:836][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2020.12.02-16.46.37:837][611]LogFileHelpers: Loading map 'EstacaoAltoIpiranga' took 0.375
+[2020.12.02-16.46.43:935][868]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 438
+[2020.12.02-16.46.47:402][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.02-16.46.48:186][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Escada_Rolante_Simples_CP4)
+[2020.12.02-16.46.48:943][ 32]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 428
+[2020.12.02-16.46.48:943][ 32]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 418
+[2020.12.02-16.46.48:993][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 408
+[2020.12.02-16.46.51:593][114]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 398
+[2020.12.02-16.46.51:617][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.02-16.46.57:253][343]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 388
+[2020.12.02-16.47.00:097][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 378
+[2020.12.02-16.47.02:927][547]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 368
+[2020.12.02-16.47.03:559][570]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 358
+[2020.12.02-16.47.10:430][825]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 348
+[2020.12.02-16.47.12:468][897]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 338
+[2020.12.02-16.47.14:948][982]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 328
+[2020.12.02-16.47.15:469][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.02-16.47.17:828][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 318
+[2020.12.02-16.47.21:239][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 308
+[2020.12.02-16.47.21:335][181]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 298
+[2020.12.02-16.47.24:340][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.12.02-16.47.25:266][260]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 288
+[2020.12.02-16.47.25:285][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 278
+[2020.12.02-16.47.26:111][260]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 268
+[2020.12.02-16.47.27:624][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 258
+[2020.12.02-16.47.28:293][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 248
+[2020.12.02-16.47.28:988][260]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 238
+[2020.12.02-16.47.30:368][260]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 228
+[2020.12.02-16.47.30:977][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 218
+[2020.12.02-16.47.31:446][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 208
+[2020.12.02-16.47.33:219][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 198
+[2020.12.02-16.47.33:473][260]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 188
+[2020.12.02-16.47.33:871][260]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.02-16.47.35:507][311]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 178
+[2020.12.02-16.47.39:989][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 168
+[2020.12.02-16.47.40:784][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 158
+[2020.12.02-16.47.41:624][483]LogEditorFactories: Performing atomic reimport of [E:/TCC 2020/_OBJS UV ABERTA/Plataforma/Escada_Rolante/Escada_Rolante_Simples_CP/Escada_Rolante_Simples_CP.fbx]
+[2020.12.02-16.47.41:740][483]LogFbx: Loading FBX Scene from E:/TCC 2020/_OBJS UV ABERTA/Plataforma/Escada_Rolante/Escada_Rolante_Simples_CP/Escada_Rolante_Simples_CP.fbx
+[2020.12.02-16.47.41:766][483]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.02-16.47.41:798][483]LogFbx: Display: Triangulating static mesh Parede_Escada
+[2020.12.02-16.47.41:811][483]LogFbx: Display: Triangulating static mesh Escada_Rolante
+[2020.12.02-16.47.41:888][483]LogStaticMesh: Building static mesh Escada_Rolante_Simples_CP...
+[2020.12.02-16.47.41:930][483]LogStaticMesh: Built static mesh [0.04s] /Game/MyContent/Models/Models/Estacoes/Escada_Rolante_Simples/Escada_Rolante_Simples_CP.Escada_Rolante_Simples_CP
+[2020.12.02-16.47.41:960][483]LogEditorFactories: -- imported successfully
+[2020.12.02-16.47.41:964][483]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.02-16.47.43:002][530]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 148
+[2020.12.02-16.47.45:382][588]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 138
+[2020.12.02-16.47.46:133][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 128
+[2020.12.02-16.47.48:317][657]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MyContent/Models/Models/Estacoes/Escada_Rolante_Simples/Escada_Rolante_Simples_CP.Escada_Rolante_Simples_CP
+[2020.12.02-16.47.49:405][657]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 118
+[2020.12.02-16.47.50:281][657]LogRenderer: Reallocating scene render targets to support 1008x696 Format 9 NumSamples 1 (Frame:1).
+[2020.12.02-16.47.50:281][657]LogSlate: Took 0.067274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.02-16.47.50:320][658]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 108
+[2020.12.02-16.47.50:447][660]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 98
+[2020.12.02-16.47.56:367][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 88
+[2020.12.02-16.47.58:509][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.02-16.47.58:575][814]LogSlate: Window 'Escada_Rolante_Simples_CP' being destroyed
+[2020.12.02-16.47.58:668][814]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.02-16.47.59:643][832]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2020.12.02-16.48.01:017][866]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2020.12.02-16.48.04:320][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2020.12.02-16.48.05:527][ 22]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2020.12.02-16.48.09:965][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.12.02-16.48.13:133][269]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.12.02-16.48.13:209][269]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Escada_Rolante\Escada_Rolante_Simples_CP\Escada_Rolante_Simples_CP.fbx)
+[2020.12.02-16.48.13:226][269]LogFbx: Loading FBX Scene from E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Escada_Rolante\Escada_Rolante_Simples_CP\Escada_Rolante_Simples_CP.fbx
+[2020.12.02-16.48.13:236][269]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.02-16.48.14:258][269]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.02-16.48.14:356][269]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.12.02-16.48.14:814][269]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.12.02-16.48.14:833][269]LogFbx: Display: Triangulating static mesh Parede_Escada
+[2020.12.02-16.48.14:850][269]LogStaticMesh: Building static mesh Escada_Rolante_Simples_CP_Parede_Escada...
+[2020.12.02-16.48.14:852][269]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Models/Estacoes/Escada_Rolante/Escada_Rolante_Simples_CP_Parede_Escada.Escada_Rolante_Simples_CP_Parede_Escada
+[2020.12.02-16.48.14:866][269]LogMaterial: Display: Missing cached shader map for material Stairs, compiling. 
+[2020.12.02-16.48.14:885][269]LogFbx: Display: Triangulating static mesh Escada_Rolante
+[2020.12.02-16.48.14:938][269]LogStaticMesh: Building static mesh Escada_Rolante_Simples_CP_Escada_Rolante...
+[2020.12.02-16.48.14:970][269]LogStaticMesh: Built static mesh [0.03s] /Game/MyContent/Models/Models/Estacoes/Escada_Rolante/Escada_Rolante_Simples_CP_Escada_Rolante.Escada_Rolante_Simples_CP_Escada_Rolante
+[2020.12.02-16.48.14:993][269]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.02-16.48.15:634][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.12.02-16.48.16:347][302]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.12.02-16.48.16:408][304]LogSlate: Window 'Message Log' being destroyed
+[2020.12.02-16.48.16:419][304]LogSlate: Window 'Message Log' being destroyed
+[2020.12.02-16.48.16:748][314]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.12.02-16.48.21:171][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.12.02-16.48.24:070][519]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.02-16.48.26:722][593]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.12.02-16.48.26:985][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.02-16.48.26:985][600]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Escada_Rolante\Escada_Rolante_Simples_CP\Texture\Escada_Rolante_esc_BC.png)
+[2020.12.02-16.48.27:178][600]LogTexture: Display: Building textures: Escada_Rolante_esc_BC (AutoDXT, 2048X2048)
+[2020.12.02-16.48.27:813][600]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.02-16.48.27:902][600]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Escada_Rolante\Escada_Rolante_Simples_CP\Texture\Escada_Rolante_esc_NRM.png)
+[2020.12.02-16.48.28:092][600]LogTexture: Display: Building textures: Escada_Rolante_esc_NRM (BC5, 2048X2048)
+[2020.12.02-16.48.28:308][600]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.02-16.48.28:342][600]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Escada_Rolante\Escada_Rolante_Simples_CP\Texture\Escada_Rolante_esc_ORM.png)
+[2020.12.02-16.48.28:495][600]LogTexture: Display: Building textures: Escada_Rolante_esc_ORM (AutoDXT, 2048X2048)
+[2020.12.02-16.48.29:002][600]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Escada_Rolante\Escada_Rolante_Simples_CP\Texture\Escada_Rolante_Par_BC.png)
+[2020.12.02-16.48.29:121][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.02-16.48.29:121][600]LogTexture: Display: Building textures: Escada_Rolante_Par_BC (AutoDXT, 2048X2048)
+[2020.12.02-16.48.29:525][600]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.02-16.48.29:525][600]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.02-16.48.29:525][600]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Escada_Rolante\Escada_Rolante_Simples_CP\Texture\Escada_Rolante_Par_NRM.png)
+[2020.12.02-16.48.29:677][600]LogTexture: Display: Building textures: Escada_Rolante_Par_NRM (BC5, 2048X2048)
+[2020.12.02-16.48.29:897][600]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\TCC 2020\_OBJS UV ABERTA\Plataforma\Escada_Rolante\Escada_Rolante_Simples_CP\Texture\Escada_Rolante_Par_ORM.png)
+[2020.12.02-16.48.29:962][600]LogTexture: Display: Building textures: Escada_Rolante_Par_ORM (AutoDXT, 2048X2048)
+[2020.12.02-16.48.36:671][845]LogSavePackage: Moving 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_Rolante_esc_BCACB3FAE547C904172722A1AE11550383.tmp' to 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Models/Estacoes/Escada_Rolante/Texture/Escada_Rolante_esc_BC.uasset'
+[2020.12.02-16.48.37:136][845]LogSavePackage: Moving 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_Rolante_esc_NRME47F8B53403AEBD4FCAC0E8607139383.tmp' to 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Models/Estacoes/Escada_Rolante/Texture/Escada_Rolante_esc_NRM.uasset'
+[2020.12.02-16.48.37:390][845]LogSavePackage: Moving 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_Rolante_esc_ORMFCB9F81C48DA952BA463578D8E599310.tmp' to 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Models/Estacoes/Escada_Rolante/Texture/Escada_Rolante_esc_ORM.uasset'
+[2020.12.02-16.48.37:599][845]LogSavePackage: Moving 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_Rolante_Par_BCA25C6CA744F48BC03E39CB9865BBB911.tmp' to 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Models/Estacoes/Escada_Rolante/Texture/Escada_Rolante_Par_BC.uasset'
+[2020.12.02-16.48.38:042][845]LogSavePackage: Moving 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_Rolante_Par_NRMC2D00A314D111CE86ABD4B81A2ACD685.tmp' to 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Models/Estacoes/Escada_Rolante/Texture/Escada_Rolante_Par_NRM.uasset'
+[2020.12.02-16.48.38:171][845]LogSavePackage: Moving 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Saved/Escada_Rolante_Par_ORM94295E3E4E6DFE4755D868B81481B1E4.tmp' to 'C:/Users/salles/Desktop/test/TCC-Sobrevivendo-Ao-Inferno/Tentativa4/Content/MyContent/Models/Models/Estacoes/Escada_Rolante/Texture/Escada_Rolante_Par_ORM.uasset'
+[2020.12.02-16.48.39:094][885]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MyContent/Models/Models/Estacoes/Escada_Rolante/Texture/Escada_Rolante_esc_ORM.Escada_Rolante_esc_ORM
+[2020.12.02-16.48.39:254][885]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.12.02-16.48.41:153][936]LogTexture: Display: Building textures: Escada_Rolante_esc_ORM (AutoDXT, 2048X2048)
+[2020.12.02-16.48.42:634][980]LogSlate: Window 'Escada_Rolante_esc_ORM' being destroyed
+[2020.12.02-16.48.43:709][ 29]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MyContent/Models/Models/Estacoes/Escada_Rolante/Texture/Escada_Rolante_Par_ORM.Escada_Rolante_Par_ORM
+[2020.12.02-16.48.44:847][ 69]LogTexture: Display: Building textures: Escada_Rolante_Par_ORM (AutoDXT, 2048X2048)
+[2020.12.02-16.48.45:741][100]LogSlate: Window 'Escada_Rolante_Par_ORM' being destroyed
+[2020.12.02-16.48.46:873][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.12.02-16.48.47:610][142]LogSlate: Window 'Save Content' being destroyed
+[2020.12.02-16.48.47:731][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.12.02-16.48.48:081][142]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.02-16.48.48:693][142]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.611 s
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: 
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: Ensure condition failed: InBlueprint == LevelScriptBlueprint [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Level.cpp] [Line: 1999]
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: Level ('/Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga:PersistentLevel.EstacaoAltoIpiranga') received OnLevelScriptBlueprintChanged notification for the wrong Blueprint ('/Game/MyContent/Maps/Estações/LinhaVerde/EstacaoAltoIpiranga.EstacaoAltoIpiranga:PersistentLevel.Train_4_BPClass').
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: Stack: 
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7ca8d1d2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7bb6ba8d UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc78313aa0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc793c60e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7c4e889e UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb19e9b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc78ff795f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc78ff82f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7902f3b8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7902bc3b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc797f7cd0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc793946fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc793922f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7936bc7c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7936a860 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7937f046 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc79391aa3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc690c825a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc691c3c3e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc6916a834 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7ad658b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7ad814b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7abc5231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7ac4b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7ac352e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffc7ac29c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffcc02e4e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffcc02d26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffcc02e7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffcc02cedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffce8cee858 USER32.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffce8cee299 USER32.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffcc02e88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e66980 UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e7a91c UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e7a9fa UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e8b92c UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ff6a4e8e60e UE4Editor.exe!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffce9a77034 KERNEL32.DLL!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: [Callstack] 0x00007ffcea7fcec1 ntdll.dll!UnknownFunction []
+[2020.12.02-16.48.48:693][142]LogOutputDevice: Error: 
+[2020.12.02-16.48.48:704][142]LogStats:                SubmitErrorReport -  0.000 s
